@@ -1,0 +1,72 @@
+{
+  "1082": {
+    "id": 1082,
+    "name": "Dark Seal",
+    "effects": "<li>This item is disabled.</li>"
+  },
+  "3003": {
+    "id": 3003,
+    "name": "Archangel's Staff",
+    "effects": "<li>Each charge consumed generates 50% more mana.</li>"
+  },
+  "3004": {
+    "id": 3004,
+    "name": "Manamune",
+    "effects": "<li>Each charge consumed generates 50% more mana.</li>"
+  },
+  "3026": {
+    "id": 3026,
+    "name": "Guardian Angel",
+    "effects": "<li>This item is disabled.</li>"
+  },
+  "3041": {
+    "id": 3041,
+    "name": "Mejai's Soulstealer",
+    "effects": "<li>This item is disabled.</li>"
+  },
+  "3070": {
+    "id": 3070,
+    "name": "Tear of the Goddess",
+    "effects": "<li>Each charge consumed generates 50% more mana.</li>"
+  },
+  "3083": {
+    "id": 3083,
+    "name": "Warmog's Armor",
+    "effects": "<li>Champion damage cooldown increased to 8 seconds.</li>\n<li>Non-champion damage cooldown increased to 4 seconds.</li>"
+  },
+  "3084": {
+    "id": 3084,
+    "name": "Heartsteel",
+    "effects": "<li>Permanent bonus health reduced to 5% of damage amount.</li>"
+  },
+  "3118": {
+    "id": 3118,
+    "name": "Malignance",
+    "effects": "<li>Hatefog base damage per tick reduced to 10.</li>\n<li>Hatefog AP ratio per tick reduced to <span>0.<small>7</small>% AP</span>.</li>"
+  },
+  "3119": {
+    "id": 3119,
+    "name": "Winter's Approach",
+    "effects": "<li>Each charge consumed generates 50% more mana.<p></p></li>"
+  },
+  "4646": {
+    "id": 4646,
+    "name": "Stormsurge",
+    "effects": "<li>Squall base damage reduced to <span>(<span> 100</span> / <span> 75</span>)</span>.</li>\n<li>Squall AP ratio reduced to <span><span>(<span> 15%</span> / <span> 11.<small>25</small>%</span>)</span> AP</span>.</li>"
+  },
+  "6610": {
+    "id": 6610,
+    "name": "Sundered Sky",
+    "effects": "<li>Lightshield Strike heal health ratio reduced to <span>4% of <b>missing</b> health</span>.</li>"
+  },
+  "6657": {
+    "id": 6657,
+    "name": "Rod of Ages",
+    "effects": "<li>Gain a stack every 40 seconds.</li>"
+  },
+  "6697": {
+    "id": 6697,
+    "name": "Hubris",
+    "effects": "<li>Eminence base bonus attack damage changed to <span>(<span> 15</span> / <span> 10</span>)</span>.</li>\n<li>Eminence bonus attack damage per stack changed to <span>(<span> 2</span> / <span> 1</span>)</span>.</li>\n<li>Eminence duration changed to <span>(<span> 90</span> / <span> 45</span>)</span> seconds.</li>"
+  }
+}

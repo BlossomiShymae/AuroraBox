@@ -1,0 +1,107 @@
+{
+  "8009": {
+    "id": 8009,
+    "name": "Presence of Mind",
+    "effects": "<li>Mana restored reduced to <span>10% of <b>maximum</b> mana</span>.</li>\n<li>Energy restored reduced to <span>10% of <b>maximum</b> energy</span>.</li>"
+  },
+  "8112": {
+    "id": 8112,
+    "name": "Electrocute",
+    "effects": "<li>Cooldown reduced to <span>15 &#8722; 10 (based on level)</span> seconds.</li>\n<li>Bonus AD ratio changed to <span>15% <b>bonus</b> AD</span>.</li>\n<li>AP ratio changed to <span>10% AP</span>.</li>"
+  },
+  "8120": {
+    "id": 8120,
+    "name": "Ghost Poro",
+    "effects": "<li>Automatically exchanged with <span><span></span> <span>Eyeball Collection</span></span>.</li>"
+  },
+  "8128": {
+    "id": 8128,
+    "name": "Dark Harvest",
+    "effects": "<li>Damage per soul reduced to 4.</li>"
+  },
+  "8136": {
+    "id": 8136,
+    "name": "Zombie Ward",
+    "effects": "<li>Automatically exchanged with <span><span></span> <span>Eyeball Collection</span></span>.</li>"
+  },
+  "8139": {
+    "id": 8139,
+    "name": "Taste of Blood",
+    "effects": "<li>Cooldown reduced to 15 seconds.</li>"
+  },
+  "8224": {
+    "id": 8224,
+    "name": "Nullifying Orb",
+    "effects": "<li>Cooldown reduced to 30 seconds.</li>"
+  },
+  "8229": {
+    "id": 8229,
+    "name": "Arcane Comet",
+    "effects": "<li>Cooldown reduced to <span>15 &#8722; 8 (based on level)</span> seconds.</li>"
+  },
+  "8232": {
+    "id": 8232,
+    "name": "Waterwalking",
+    "effects": "<li>Automatically exchanged with <span><span></span> <span>Scorch</span></span>.</li>"
+  },
+  "8236": {
+    "id": 8236,
+    "name": "Gathering Storm",
+    "effects": "<li>Stats gain reduced to every 6 minutes.</li>"
+  },
+  "8304": {
+    "id": 8304,
+    "name": "Magical Footwear",
+    "effects": "<li>Boots grant reduced to 8 minutes.</li>\n<li>Time reduction per takedown reduced to 30 seconds.<p></p></li>"
+  },
+  "8360": {
+    "id": 8360,
+    "name": "Unsealed Spellbook",
+    "effects": "<li>Cooldown reduced to <span>180 &#8722; 60 (based on unique swaps)</span> seconds.</li>\n<li>Cooldown reduction per unique summoner spell changed to 20 seconds.</li>"
+  },
+  "8369": {
+    "id": 8369,
+    "name": "First Strike",
+    "effects": "<li>Base gold changed to <span><span></span> <span>15</span></span>.</li>\n<li>Gold based on damage dealt changed to <span>(<span> 60%</span> / <span> 42%</span>)</span>.</li>"
+  },
+  "8429": {
+    "id": 8429,
+    "name": "Conditioning",
+    "effects": "<li>Initial cooldown reduced to 8 minutes.</li>"
+  },
+  "8437": {
+    "id": 8437,
+    "name": "Grasp of the Undying",
+    "effects": "<li>Melee champions triggered attack bonus health increased to 10.</li>\n<li>Ranged champions triggered attack bonus health increased to 6.</li>"
+  },
+  "8446": {
+    "id": 8446,
+    "name": "Demolish",
+    "effects": "<li>Base damage reduced to 50.</li>\n<li>Health ratio reduced to <span>20% of <b>maximum</b> health</span>.</li>"
+  },
+  "8451": {
+    "id": 8451,
+    "name": "Overgrowth",
+    "effects": "<li>Bonus health per stack increased to 5.</li>\n<li>Additional bonus health threshold reduced to 80 minions or monsters.</li>"
+  },
+  "8465": {
+    "id": 8465,
+    "name": "Guardian",
+    "effects": "<li>Cooldown reduced to <span>60 &#8722; 30 (based on level)</span> seconds.</li>"
+  },
+  "8473": {
+    "id": 8473,
+    "name": "Bone Plating",
+    "effects": "<li>Cooldown reduced to 40 seconds.</li>"
+  },
+  "9111": {
+    "id": 9111,
+    "name": "Triumph",
+    "effects": "<li>Base heal ratio reduced to <span>1.<small>5</small>% of <b>maximum</b> health</span>.</li>\n<li>Heal health ratio reduced to <span>3% of <b>missing</b> health</span>.</li>\n<li>Bonus gold reduced to <span><span></span> <span>10</span></span>.</li>"
+  },
+  "9923": {
+    "id": 9923,
+    "name": "Hail of Blades",
+    "effects": "<li>Bonus attack speed increased to <span>(<span> 130%</span> / <span> 100%</span>)</span>.</li>"
+  }
+}

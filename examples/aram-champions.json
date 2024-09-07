@@ -1,0 +1,1010 @@
+{
+  "Aatrox": {
+    "name": "Aatrox",
+    "id": 266,
+    "damageDealt": 105,
+    "damageReceived": 100,
+    "effects": ""
+  },
+  "Akali": {
+    "name": "Akali",
+    "id": 84,
+    "damageDealt": 105,
+    "damageReceived": 90,
+    "effects": "<ul><li>Energy regeneration increased by 20%.</li><li>Tenacity increased by 20%.</li></ul>"
+  },
+  "Akshan": {
+    "name": "Akshan",
+    "id": 166,
+    "damageDealt": 105,
+    "damageReceived": 95,
+    "effects": "<p><span><span></span> <span>Going Rogue</span></span>\n</p>\n<ul><li>Scoundrel duration reduced to 10 seconds.</li></ul>"
+  },
+  "Alistar": {
+    "name": "Alistar",
+    "id": 12,
+    "damageDealt": 95,
+    "damageReceived": 105,
+    "effects": "<ul><li>Healing done reduced by 20%.</li></ul>"
+  },
+  "Anivia": {
+    "name": "Anivia",
+    "id": 34,
+    "damageDealt": 105,
+    "damageReceived": 100,
+    "effects": ""
+  },
+  "Annie": {
+    "name": "Annie",
+    "id": 1,
+    "damageDealt": 95,
+    "damageReceived": 105,
+    "effects": "<ul><li>Shielding done reduced by 10%.</li></ul>"
+  },
+  "Ashe": {
+    "name": "Ashe",
+    "id": 22,
+    "damageDealt": 105,
+    "damageReceived": 100,
+    "effects": "<ul><li>Total attack speed  increased by 3%.</li></ul>\n<p><span><span></span> <span>Volley</span></span>\n</p>\n<ul><li>Cooldown increased to 18 / 17.<small>5</small> / 17 / 16.<small>5</small> / 16 seconds.</li></ul>"
+  },
+  "AurelionSol": {
+    "name": "Aurelion Sol",
+    "id": 136,
+    "damageDealt": 100,
+    "damageReceived": 100,
+    "effects": "<p><span><span></span> <span>Singularity</span></span>\n</p>\n<ul><li>Cooldown increased to 14 seconds.</li></ul>"
+  },
+  "Aurora": {
+    "name": "Aurora",
+    "id": 893,
+    "damageDealt": 100,
+    "damageReceived": 100,
+    "effects": "<ul><li>Ability haste increased by 10.</li></ul>"
+  },
+  "Azir": {
+    "name": "Azir",
+    "id": 268,
+    "damageDealt": 100,
+    "damageReceived": 95,
+    "effects": "<ul><li>Ability haste increased by 20.</li><li>Total attack speed  increased by 2.5%.</li></ul>\n<p><span><span></span> <span>Arise!</span></span>\n</p>\n<ul><li><b>Azir</b> will start the game with one point already ranked in <i>Arise!</i>, allowing him to allocate the other two to his other abilities.</li></ul>"
+  },
+  "Bard": {
+    "name": "Bard",
+    "id": 432,
+    "damageDealt": 115,
+    "damageReceived": 85,
+    "effects": "<ul><li>Healing done increased by 20%.</li></ul>\n<p><span><span></span> <span>Traveler's Call</span></span>\n</p>\n<ul><li>Chime spawn rate increased to every 30 seconds instead of 50 seconds (initial spawn unchanged).</li></ul>"
+  },
+  "Belveth": {
+    "name": "Bel'Veth",
+    "id": 200,
+    "damageDealt": 105,
+    "damageReceived": 100,
+    "effects": "<p><span><span></span> <span>Death in Lavender</span></span>\n</p>\n<ul><li><b>Bel'Veth</b> gains 2 stacks from nearby siege minion deaths.</li></ul>\n<p><span><span></span> <span>Endless Banquet</span></span>\n</p>\n<ul><li>Enhanced Void Corals spawn from nearby turrets being destroyed.</li></ul>"
+  },
+  "Brand": {
+    "name": "Brand",
+    "id": 63,
+    "damageDealt": 95,
+    "damageReceived": 110,
+    "effects": "<ul><li>Ability haste reduced by 10.</li></ul>"
+  },
+  "Briar": {
+    "name": "Briar",
+    "id": 233,
+    "damageDealt": 105,
+    "damageReceived": 100,
+    "effects": "<ul><li>Healing done increased by 20%.</li></ul>"
+  },
+  "Caitlyn": {
+    "name": "Caitlyn",
+    "id": 51,
+    "damageDealt": 100,
+    "damageReceived": 105,
+    "effects": ""
+  },
+  "Camille": {
+    "name": "Camille",
+    "id": 164,
+    "damageDealt": 105,
+    "damageReceived": 95,
+    "effects": "<ul><li>Shielding done increased by 10%.</li><li>Healing done increased by 20%.</li><li>Ability haste increased by 10.</li></ul>"
+  },
+  "Chogath": {
+    "name": "Cho'Gath",
+    "id": 31,
+    "damageDealt": 100,
+    "damageReceived": 110,
+    "effects": ""
+  },
+  "Corki": {
+    "name": "Corki",
+    "id": 42,
+    "damageDealt": 100,
+    "damageReceived": 90,
+    "effects": "<ul><li>Ability haste increased by 20.</li></ul>"
+  },
+  "Darius": {
+    "name": "Darius",
+    "id": 122,
+    "damageDealt": 105,
+    "damageReceived": 100,
+    "effects": ""
+  },
+  "Diana": {
+    "name": "Diana",
+    "id": 131,
+    "damageDealt": 105,
+    "damageReceived": 95,
+    "effects": ""
+  },
+  "Draven": {
+    "name": "Draven",
+    "id": 119,
+    "damageDealt": 105,
+    "damageReceived": 95,
+    "effects": ""
+  },
+  "DrMundo": {
+    "name": "Dr. Mundo",
+    "id": 36,
+    "damageDealt": 90,
+    "damageReceived": 105,
+    "effects": "<ul><li>Healing done reduced by 10%.</li></ul>"
+  },
+  "Ekko": {
+    "name": "Ekko",
+    "id": 245,
+    "damageDealt": 110,
+    "damageReceived": 100,
+    "effects": "<ul><li>Tenacity increased by 20%.</li></ul>"
+  },
+  "Elise": {
+    "name": "Elise",
+    "id": 60,
+    "damageDealt": 105,
+    "damageReceived": 90,
+    "effects": "<ul><li>Tenacity increased by 20%.</li></ul>"
+  },
+  "Evelynn": {
+    "name": "Evelynn",
+    "id": 28,
+    "damageDealt": 110,
+    "damageReceived": 90,
+    "effects": "<ul><li>Tenacity increased by 20%.</li></ul>"
+  },
+  "FiddleSticks": {
+    "name": "Fiddlesticks",
+    "id": 9,
+    "damageDealt": 95,
+    "damageReceived": 105,
+    "effects": ""
+  },
+  "Fiora": {
+    "name": "Fiora",
+    "id": 114,
+    "damageDealt": 100,
+    "damageReceived": 95,
+    "effects": ""
+  },
+  "Fizz": {
+    "name": "Fizz",
+    "id": 105,
+    "damageDealt": 105,
+    "damageReceived": 95,
+    "effects": "<ul><li>Tenacity increased by 20%.</li></ul>"
+  },
+  "Galio": {
+    "name": "Galio",
+    "id": 3,
+    "damageDealt": 90,
+    "damageReceived": 105,
+    "effects": ""
+  },
+  "Gangplank": {
+    "name": "Gangplank",
+    "id": 41,
+    "damageDealt": 105,
+    "damageReceived": 100,
+    "effects": "<p><span><span></span> <span>Parrrley</span></span>\n</p>\n<ul><li><span><b>New Effect:</b></span> Passively gains 1 <span><span></span> <span>Silver Serpent</span></span> per second.</li></ul>"
+  },
+  "Garen": {
+    "name": "Garen",
+    "id": 86,
+    "damageDealt": 100,
+    "damageReceived": 95,
+    "effects": "<p><span><span></span> <span>Courage</span></span>\n</p>\n<ul><li>Bonus resistances on-kill changed to 0.<small>5</small>. <i>Number of enemy kills needed to reach the maximum amount changed to 60.</i></li></ul>"
+  },
+  "Gnar": {
+    "name": "Gnar",
+    "id": 150,
+    "damageDealt": 105,
+    "damageReceived": 95,
+    "effects": "<ul><li>Total attack speed  increased by 2.5%.</li></ul>"
+  },
+  "Gragas": {
+    "name": "Gragas",
+    "id": 79,
+    "damageDealt": 100,
+    "damageReceived": 95,
+    "effects": ""
+  },
+  "Hecarim": {
+    "name": "Hecarim",
+    "id": 120,
+    "damageDealt": 105,
+    "damageReceived": 90,
+    "effects": "<ul><li>Healing done increased by 20%.</li><li>Ability haste increased by 10.</li></ul>"
+  },
+  "Heimerdinger": {
+    "name": "Heimerdinger",
+    "id": 74,
+    "damageDealt": 90,
+    "damageReceived": 110,
+    "effects": ""
+  },
+  "Hwei": {
+    "name": "Hwei",
+    "id": 910,
+    "damageDealt": 100,
+    "damageReceived": 100,
+    "effects": "<p><span><span></span> <span>Subject: Disaster</span></span>\n</p>\n<ul><li><span><span></span> <span>Devastating Fire</span></span>\n<ul><li>Deals 80% damage to minions.</li></ul></li>\n<li><span><span></span> <span>Severing Bolt</span></span>\n<ul><li>Dealt 80% damage to minions.</li></ul></li>\n<li><span><span></span> <span>Molten Fissure</span></span>\n<ul><li>Deals 80% damage to minions.</li></ul></li></ul>\n<p><span><span></span> <span>Subject: Serenity</span></span>\n</p>\n<ul><li><span><span></span> <span>Stirring Lights</span></span>\n<ul><li>Deals 80% damage to minions.</li></ul></li></ul>\n<p><span><span></span> <span>Subject: Torment</span></span>\n</p>\n<ul><li><span><span></span> <span>Grim Visage</span></span>\n<ul><li>Deals 80% damage to minions.</li></ul></li>\n<li><span><span></span> <span>Gaze of the Abyss</span></span>\n<ul><li>Deals 80% damage to minions.</li></ul></li>\n<li><span><span></span> <span>Crushing Maw</span></span>\n<ul><li>Deals 80% damage to minions.</li></ul></li></ul>"
+  },
+  "Illaoi": {
+    "name": "Illaoi",
+    "id": 420,
+    "damageDealt": 95,
+    "damageReceived": 105,
+    "effects": "<ul><li>Healing done reduced by 20%.</li></ul>"
+  },
+  "Irelia": {
+    "name": "Irelia",
+    "id": 39,
+    "damageDealt": 100,
+    "damageReceived": 100,
+    "effects": "<ul><li>Ability haste increased by 20.</li></ul>"
+  },
+  "Ivern": {
+    "name": "Ivern",
+    "id": 427,
+    "damageDealt": 90,
+    "damageReceived": 100,
+    "effects": "<ul><li>Shielding done reduced by 20%.</li></ul>"
+  },
+  "Janna": {
+    "name": "Janna",
+    "id": 40,
+    "damageDealt": 95,
+    "damageReceived": 105,
+    "effects": "<ul><li>Shielding done reduced by 5%.</li><li>Healing done reduced by 10%.</li></ul>\n<p><span><span></span> <span>Howling Gale</span></span>\n</p>\n<ul><li>Cooldown increased to 16 seconds.</li></ul>"
+  },
+  "Jax": {
+    "name": "Jax",
+    "id": 24,
+    "damageDealt": 105,
+    "damageReceived": 97,
+    "effects": ""
+  },
+  "Jayce": {
+    "name": "Jayce",
+    "id": 126,
+    "damageDealt": 105,
+    "damageReceived": 100,
+    "effects": ""
+  },
+  "Jhin": {
+    "name": "Jhin",
+    "id": 202,
+    "damageDealt": 90,
+    "damageReceived": 105,
+    "effects": ""
+  },
+  "Jinx": {
+    "name": "Jinx",
+    "id": 222,
+    "damageDealt": 90,
+    "damageReceived": 105,
+    "effects": ""
+  },
+  "Kaisa": {
+    "name": "Kai'Sa",
+    "id": 145,
+    "damageDealt": 100,
+    "damageReceived": 95,
+    "effects": "<ul><li>Total attack speed  increased by 2.5%.</li></ul>"
+  },
+  "Kalista": {
+    "name": "Kalista",
+    "id": 429,
+    "damageDealt": 110,
+    "damageReceived": 90,
+    "effects": ""
+  },
+  "Karthus": {
+    "name": "Karthus",
+    "id": 30,
+    "damageDealt": 90,
+    "damageReceived": 105,
+    "effects": "<p><span><span></span> <span>Death Defied</span></span>\n</p>\n<ul><li>Duration reduced to 5 seconds.</li></ul>"
+  },
+  "Kassadin": {
+    "name": "Kassadin",
+    "id": 38,
+    "damageDealt": 100,
+    "damageReceived": 95,
+    "effects": ""
+  },
+  "Katarina": {
+    "name": "Katarina",
+    "id": 55,
+    "damageDealt": 100,
+    "damageReceived": 100,
+    "effects": "<ul><li>Tenacity increased by 20%.</li><li>Ability haste increased by 10.</li></ul>"
+  },
+  "Kayle": {
+    "name": "Kayle",
+    "id": 10,
+    "damageDealt": 95,
+    "damageReceived": 110,
+    "effects": ""
+  },
+  "Kayn": {
+    "name": "Kayn",
+    "id": 141,
+    "damageDealt": 100,
+    "damageReceived": 100,
+    "effects": "<ul><li>Healing done reduced by 20%.</li><li>Tenacity increased by 20%.</li></ul>\n<p><span><span></span> <span>The Darkin Scythe</span></span>\n</p>\n<ul><li>Transformation no longer restores full <span>health</span> and <span>mana</span>.</li></ul>"
+  },
+  "Kennen": {
+    "name": "Kennen",
+    "id": 85,
+    "damageDealt": 105,
+    "damageReceived": 100,
+    "effects": "<ul><li>Energy regeneration increased by 20%.</li></ul>"
+  },
+  "Khazix": {
+    "name": "Kha'Zix",
+    "id": 121,
+    "damageDealt": 110,
+    "damageReceived": 90,
+    "effects": "<ul><li>Healing done increased by 20%.</li><li>Tenacity increased by 20%.</li></ul>"
+  },
+  "Kindred": {
+    "name": "Kindred",
+    "id": 203,
+    "damageDealt": 110,
+    "damageReceived": 90,
+    "effects": "<ul><li>Total attack speed  increased by 2.5%.</li></ul>"
+  },
+  "Kled": {
+    "name": "Kled",
+    "id": 240,
+    "damageDealt": 105,
+    "damageReceived": 100,
+    "effects": ""
+  },
+  "KogMaw": {
+    "name": "Kog'Maw",
+    "id": 96,
+    "damageDealt": 88,
+    "damageReceived": 110,
+    "effects": ""
+  },
+  "KSante": {
+    "name": "K'Sante",
+    "id": 897,
+    "damageDealt": 105,
+    "damageReceived": 100,
+    "effects": ""
+  },
+  "Leblanc": {
+    "name": "LeBlanc",
+    "id": 7,
+    "damageDealt": 110,
+    "damageReceived": 90,
+    "effects": "<ul><li>Tenacity increased by 10%.</li><li>Ability haste increased by 20.</li></ul>"
+  },
+  "LeeSin": {
+    "name": "Lee Sin",
+    "id": 64,
+    "damageDealt": 105,
+    "damageReceived": 95,
+    "effects": "<ul><li>Shielding done increased by 20%.</li><li>Healing done increased by 10%.</li><li>Energy regeneration increased by 20%.</li></ul>"
+  },
+  "Leona": {
+    "name": "Leona",
+    "id": 89,
+    "damageDealt": 90,
+    "damageReceived": 100,
+    "effects": ""
+  },
+  "Lillia": {
+    "name": "Lillia",
+    "id": 876,
+    "damageDealt": 95,
+    "damageReceived": 105,
+    "effects": "<p><span><span></span> <span>Swirlseed</span></span>\n</p>\n<ul><li>Cooldown increased to 18 seconds.</li></ul>"
+  },
+  "Lissandra": {
+    "name": "Lissandra",
+    "id": 127,
+    "damageDealt": 95,
+    "damageReceived": 105,
+    "effects": ""
+  },
+  "Lucian": {
+    "name": "Lucian",
+    "id": 236,
+    "damageDealt": 105,
+    "damageReceived": 95,
+    "effects": "<ul><li>Tenacity increased by 20%.</li><li>Ability haste increased by 10.</li></ul>"
+  },
+  "Lulu": {
+    "name": "Lulu",
+    "id": 117,
+    "damageDealt": 100,
+    "damageReceived": 100,
+    "effects": "<ul><li>Shielding done increased by 0%.</li></ul>"
+  },
+  "Lux": {
+    "name": "Lux",
+    "id": 99,
+    "damageDealt": 85,
+    "damageReceived": 110,
+    "effects": "<ul><li>Shielding done reduced by 20%.</li></ul>"
+  },
+  "Malzahar": {
+    "name": "Malzahar",
+    "id": 90,
+    "damageDealt": 90,
+    "damageReceived": 110,
+    "effects": "<p><span><span></span> <span>Call of the Void</span></span>\n</p>\n<ul><li>Deals 80% damage to minions (60% total).</li></ul>\n<p><span><span></span> <span>Void Swarm</span></span>\n</p>\n<ul><li>Deals 80% damage to minions (60% total).</li></ul>\n<p><span><span></span> <span>Nether Grasp</span></span>\n</p>\n<ul><li><i>Null Zone</i> deals 80% damage to minions (60% total).</li></ul>"
+  },
+  "Maokai": {
+    "name": "Maokai",
+    "id": 57,
+    "damageDealt": 80,
+    "damageReceived": 110,
+    "effects": "<ul><li>Healing done reduced by 10%.</li></ul>"
+  },
+  "MasterYi": {
+    "name": "Master Yi",
+    "id": 11,
+    "damageDealt": 100,
+    "damageReceived": 97,
+    "effects": ""
+  },
+  "Milio": {
+    "name": "Milio",
+    "id": 902,
+    "damageDealt": 100,
+    "damageReceived": 100,
+    "effects": "<ul><li>Shielding done reduced by 10%.</li><li>Healing done reduced by 5%.</li><li>Ability haste reduced by 10.</li></ul>"
+  },
+  "MissFortune": {
+    "name": "Miss Fortune",
+    "id": 21,
+    "damageDealt": 90,
+    "damageReceived": 110,
+    "effects": ""
+  },
+  "Mordekaiser": {
+    "name": "Mordekaiser",
+    "id": 82,
+    "damageDealt": 95,
+    "damageReceived": 105,
+    "effects": ""
+  },
+  "Morgana": {
+    "name": "Morgana",
+    "id": 25,
+    "damageDealt": 95,
+    "damageReceived": 110,
+    "effects": ""
+  },
+  "Naafiri": {
+    "name": "Naafiri",
+    "id": 950,
+    "damageDealt": 110,
+    "damageReceived": 100,
+    "effects": "<ul><li>Ability haste increased by 10.</li></ul>"
+  },
+  "Nami": {
+    "name": "Nami",
+    "id": 267,
+    "damageDealt": 95,
+    "damageReceived": 105,
+    "effects": "<ul><li>Healing done reduced by 10%.</li></ul>"
+  },
+  "Nasus": {
+    "name": "Nasus",
+    "id": 75,
+    "damageDealt": 90,
+    "damageReceived": 105,
+    "effects": "<p><span><span></span> <span>Siphoning Strike</span></span>\n</p>\n<ul><li>Per-kill stacks increased to <span>6</span>.</li>\n<li>Per-large-kill stacks increased to <span>24</span>.</li></ul>"
+  },
+  "Nautilus": {
+    "name": "Nautilus",
+    "id": 111,
+    "damageDealt": 95,
+    "damageReceived": 110,
+    "effects": ""
+  },
+  "Nidalee": {
+    "name": "Nidalee",
+    "id": 76,
+    "damageDealt": 110,
+    "damageReceived": 100,
+    "effects": ""
+  },
+  "Nilah": {
+    "name": "Nilah",
+    "id": 895,
+    "damageDealt": 95,
+    "damageReceived": 100,
+    "effects": "<ul><li>Healing done increased by 0%.</li></ul>"
+  },
+  "Nocturne": {
+    "name": "Nocturne",
+    "id": 56,
+    "damageDealt": 110,
+    "damageReceived": 90,
+    "effects": "<ul><li>Healing done increased by 20%.</li></ul>"
+  },
+  "Nunu": {
+    "name": "Nunu & Willump",
+    "id": 20,
+    "damageDealt": 110,
+    "damageReceived": 90,
+    "effects": "<ul><li>Shielding done increased by 20%.</li><li>Healing done increased by 10%.</li><li>Tenacity increased by 20%.</li></ul>"
+  },
+  "Olaf": {
+    "name": "Olaf",
+    "id": 2,
+    "damageDealt": 105,
+    "damageReceived": 100,
+    "effects": ""
+  },
+  "Ornn": {
+    "name": "Ornn",
+    "id": 516,
+    "damageDealt": 90,
+    "damageReceived": 105,
+    "effects": "<p><span><span></span> <span>Living Forge</span></span>\n</p>\n<ul><li><span><b>New Effect:</b></span> Forging an item puts <i>Living Forge</i> on a 120-second cooldown.</li></ul>"
+  },
+  "Pantheon": {
+    "name": "Pantheon",
+    "id": 80,
+    "damageDealt": 105,
+    "damageReceived": 100,
+    "effects": ""
+  },
+  "Pyke": {
+    "name": "Pyke",
+    "id": 555,
+    "damageDealt": 110,
+    "damageReceived": 95,
+    "effects": "<ul><li>Tenacity increased by 20%.</li></ul>"
+  },
+  "Qiyana": {
+    "name": "Qiyana",
+    "id": 246,
+    "damageDealt": 115,
+    "damageReceived": 90,
+    "effects": "<ul><li>Tenacity increased by 20%.</li></ul>\n<p><span><span></span> <span>Terrashape</span></span>\n</p>\n<ul><li>Targeting a Health Relic on <span> Howling Abyss</span> grants the <span><b><span>River</span></b></span> <i>Element</i>.</li></ul>"
+  },
+  "Quinn": {
+    "name": "Quinn",
+    "id": 133,
+    "damageDealt": 110,
+    "damageReceived": 90,
+    "effects": "<ul><li>Tenacity increased by 20%.</li><li>Total attack speed  increased by 2.5%.</li></ul>"
+  },
+  "Rakan": {
+    "name": "Rakan",
+    "id": 497,
+    "damageDealt": 100,
+    "damageReceived": 95,
+    "effects": ""
+  },
+  "RekSai": {
+    "name": "Rek'Sai",
+    "id": 421,
+    "damageDealt": 105,
+    "damageReceived": 90,
+    "effects": ""
+  },
+  "Rell": {
+    "name": "Rell",
+    "id": 526,
+    "damageDealt": 95,
+    "damageReceived": 100,
+    "effects": "<ul><li>Shielding done reduced by 10%.</li><li>Healing done reduced by 10%.</li></ul>"
+  },
+  "Renata": {
+    "name": "Renata Glasc",
+    "id": 888,
+    "damageDealt": 95,
+    "damageReceived": 105,
+    "effects": "<ul><li>Shielding done reduced by 20%.</li></ul>"
+  },
+  "Renekton": {
+    "name": "Renekton",
+    "id": 58,
+    "damageDealt": 100,
+    "damageReceived": 100,
+    "effects": "<ul><li>Healing done increased by 5%.</li></ul>"
+  },
+  "Rengar": {
+    "name": "Rengar",
+    "id": 107,
+    "damageDealt": 105,
+    "damageReceived": 92,
+    "effects": "<ul><li>Tenacity increased by 20%.</li></ul>"
+  },
+  "Riven": {
+    "name": "Riven",
+    "id": 92,
+    "damageDealt": 105,
+    "damageReceived": 92,
+    "effects": "<ul><li>Shielding done increased by 0%.</li></ul>"
+  },
+  "Ryze": {
+    "name": "Ryze",
+    "id": 13,
+    "damageDealt": 105,
+    "damageReceived": 95,
+    "effects": ""
+  },
+  "Samira": {
+    "name": "Samira",
+    "id": 360,
+    "damageDealt": 95,
+    "damageReceived": 105,
+    "effects": ""
+  },
+  "Senna": {
+    "name": "Senna",
+    "id": 235,
+    "damageDealt": 94,
+    "damageReceived": 105,
+    "effects": ""
+  },
+  "Seraphine": {
+    "name": "Seraphine",
+    "id": 147,
+    "damageDealt": 85,
+    "damageReceived": 120,
+    "effects": "<ul><li>Shielding done reduced by 20%.</li><li>Healing done reduced by 20%.</li><li>Ability haste reduced by 20.</li></ul>"
+  },
+  "Sett": {
+    "name": "Sett",
+    "id": 875,
+    "damageDealt": 90,
+    "damageReceived": 110,
+    "effects": "<ul><li>Shielding done reduced by 10%.</li><li>Healing done reduced by 10%.</li></ul>"
+  },
+  "Shaco": {
+    "name": "Shaco",
+    "id": 35,
+    "damageDealt": 105,
+    "damageReceived": 100,
+    "effects": "<p><span><span></span> <span>Jack in the Box</span></span>\n</p>\n<ul><li>Limited to 6 <i>Boxes</i> active.</li></ul>"
+  },
+  "Shen": {
+    "name": "Shen",
+    "id": 98,
+    "damageDealt": 95,
+    "damageReceived": 105,
+    "effects": ""
+  },
+  "Shyvana": {
+    "name": "Shyvana",
+    "id": 102,
+    "damageDealt": 100,
+    "damageReceived": 95,
+    "effects": "<p><span><span></span> <span>Fury of the Dragonborn</span></span>\n</p>\n<ul><li><span><b>Alternate Innate:</b></span> <b>Shyvana</b> gains <span>1 <b>bonus</b> armor</span>, <span>1 <b>bonus</b> magic resistance</span>, and <span>0.<small>05</small> <b>bonus</b> Fury regeneration</span> whenever a siege or a canon minion dies within 1400 units range of her, or when she is healed by a health relic's area of effect on the enemy's side of the map.\n<ul><li>She will not gain bonuses if she is dead, even if in range.</li></ul></li></ul>"
+  },
+  "Singed": {
+    "name": "Singed",
+    "id": 27,
+    "damageDealt": 90,
+    "damageReceived": 105,
+    "effects": ""
+  },
+  "Sion": {
+    "name": "Sion",
+    "id": 14,
+    "damageDealt": 90,
+    "damageReceived": 110,
+    "effects": "<ul><li>Ability haste reduced by 10.</li></ul>\n<p><span><span></span> <span>Glory in Death</span></span>\n</p>\n<ul><li>Life steal reduced to 50%.</li></ul>\n<p><span><span></span> <span>Soul Furnace</span></span>\n</p>\n<ul><li><span>&#160;<span>Health</span></span> per lesser unit kill changed to 2.</li>\n<li><span>&#160;<span>Health</span></span> per greater unit kill changed to 8.</li>\n<li>Shield health ratio changed to <span>6 / 8 / 10 / 12 / 14% <b>maximum</b> health</span>.</li></ul>"
+  },
+  "Sivir": {
+    "name": "Sivir",
+    "id": 15,
+    "damageDealt": 90,
+    "damageReceived": 105,
+    "effects": "<p><span><span></span> <span>Boomerang Blade</span></span>\n</p>\n<ul><li>Cooldown increased to 14 / 13 / 12 / 11 / 10 seconds.</li></ul>"
+  },
+  "Skarner": {
+    "name": "Skarner",
+    "id": 72,
+    "damageDealt": 100,
+    "damageReceived": 105,
+    "effects": ""
+  },
+  "Smolder": {
+    "name": "Smolder",
+    "id": 901,
+    "damageDealt": 100,
+    "damageReceived": 105,
+    "effects": "<ul><li>Ability haste reduced by 10.</li></ul>"
+  },
+  "Sona": {
+    "name": "Sona",
+    "id": 37,
+    "damageDealt": 100,
+    "damageReceived": 110,
+    "effects": "<ul><li>Shielding done reduced by 15%.</li><li>Healing done reduced by 15%.</li><li>Ability haste reduced by 20.</li></ul>"
+  },
+  "Swain": {
+    "name": "Swain",
+    "id": 50,
+    "damageDealt": 90,
+    "damageReceived": 115,
+    "effects": "<ul><li>Healing done reduced by 20%.</li></ul>"
+  },
+  "Sylas": {
+    "name": "Sylas",
+    "id": 517,
+    "damageDealt": 105,
+    "damageReceived": 100,
+    "effects": ""
+  },
+  "Syndra": {
+    "name": "Syndra",
+    "id": 134,
+    "damageDealt": 105,
+    "damageReceived": 100,
+    "effects": "<ul><li>Ability haste increased by 15.</li></ul>"
+  },
+  "TahmKench": {
+    "name": "Tahm Kench",
+    "id": 223,
+    "damageDealt": 100,
+    "damageReceived": 105,
+    "effects": ""
+  },
+  "Talon": {
+    "name": "Talon",
+    "id": 91,
+    "damageDealt": 105,
+    "damageReceived": 95,
+    "effects": "<ul><li>Tenacity increased by 20%.</li></ul>"
+  },
+  "Taric": {
+    "name": "Taric",
+    "id": 44,
+    "damageDealt": 100,
+    "damageReceived": 110,
+    "effects": ""
+  },
+  "Teemo": {
+    "name": "Teemo",
+    "id": 17,
+    "damageDealt": 90,
+    "damageReceived": 110,
+    "effects": "<ul><li>Ability haste reduced by 20.</li></ul>\n<p><span><span></span> <span>Noxious Trap</span></span>\n</p>\n<ul><li>Deals 66% damage to minions (50% total).</li>\n<li>Maximum charges reduced to 2 / 3 / 4.</li></ul>"
+  },
+  "Thresh": {
+    "name": "Thresh",
+    "id": 412,
+    "damageDealt": 100,
+    "damageReceived": 105,
+    "effects": "<p><span><span></span> <span>Damnation</span></span>\n</p>\n<ul><li>Each collected soul counts as 2 from 1.</li></ul>"
+  },
+  "Tristana": {
+    "name": "Tristana",
+    "id": 18,
+    "damageDealt": 105,
+    "damageReceived": 95,
+    "effects": ""
+  },
+  "Trundle": {
+    "name": "Trundle",
+    "id": 48,
+    "damageDealt": 100,
+    "damageReceived": 105,
+    "effects": "<ul><li>Healing done increased by 0%.</li></ul>"
+  },
+  "Tryndamere": {
+    "name": "Tryndamere",
+    "id": 23,
+    "damageDealt": 110,
+    "damageReceived": 90,
+    "effects": "<ul><li>Healing done increased by 35%.</li></ul>"
+  },
+  "Twitch": {
+    "name": "Twitch",
+    "id": 29,
+    "damageDealt": 100,
+    "damageReceived": 95,
+    "effects": ""
+  },
+  "Urgot": {
+    "name": "Urgot",
+    "id": 6,
+    "damageDealt": 100,
+    "damageReceived": 105,
+    "effects": ""
+  },
+  "Varus": {
+    "name": "Varus",
+    "id": 110,
+    "damageDealt": 98,
+    "damageReceived": 105,
+    "effects": ""
+  },
+  "Vayne": {
+    "name": "Vayne",
+    "id": 67,
+    "damageDealt": 105,
+    "damageReceived": 95,
+    "effects": ""
+  },
+  "Veigar": {
+    "name": "Veigar",
+    "id": 45,
+    "damageDealt": 90,
+    "damageReceived": 110,
+    "effects": "<p><span><span></span> <span>Event Horizon</span></span>\n</p>\n<ul><li>Cooldown increased to 23 / 21.<small>5</small> / 20 / 18.<small>5</small> / 17 seconds.</li></ul>"
+  },
+  "Velkoz": {
+    "name": "Vel'Koz",
+    "id": 161,
+    "damageDealt": 95,
+    "damageReceived": 105,
+    "effects": ""
+  },
+  "Vex": {
+    "name": "Vex",
+    "id": 711,
+    "damageDealt": 95,
+    "damageReceived": 100,
+    "effects": ""
+  },
+  "Vi": {
+    "name": "Vi",
+    "id": 254,
+    "damageDealt": 105,
+    "damageReceived": 95,
+    "effects": ""
+  },
+  "Viego": {
+    "name": "Viego",
+    "id": 234,
+    "damageDealt": 105,
+    "damageReceived": 100,
+    "effects": ""
+  },
+  "Viktor": {
+    "name": "Viktor",
+    "id": 112,
+    "damageDealt": 95,
+    "damageReceived": 105,
+    "effects": ""
+  },
+  "Vladimir": {
+    "name": "Vladimir",
+    "id": 8,
+    "damageDealt": 95,
+    "damageReceived": 100,
+    "effects": "<ul><li>Healing done reduced by 10%.</li></ul>"
+  },
+  "Warwick": {
+    "name": "Warwick",
+    "id": 19,
+    "damageDealt": 105,
+    "damageReceived": 95,
+    "effects": "<ul><li>Healing done increased by 5%.</li></ul>"
+  },
+  "Xayah": {
+    "name": "Xayah",
+    "id": 498,
+    "damageDealt": 105,
+    "damageReceived": 100,
+    "effects": "<ul><li>Total attack speed  increased by 3%.</li></ul>"
+  },
+  "Xerath": {
+    "name": "Xerath",
+    "id": 101,
+    "damageDealt": 95,
+    "damageReceived": 105,
+    "effects": ""
+  },
+  "XinZhao": {
+    "name": "Xin Zhao",
+    "id": 5,
+    "damageDealt": 95,
+    "damageReceived": 100,
+    "effects": ""
+  },
+  "Yasuo": {
+    "name": "Yasuo",
+    "id": 157,
+    "damageDealt": 100,
+    "damageReceived": 100,
+    "effects": "<ul><li>Total attack speed  increased by 2.5%.</li></ul>"
+  },
+  "Yone": {
+    "name": "Yone",
+    "id": 777,
+    "damageDealt": 105,
+    "damageReceived": 97,
+    "effects": "<ul><li>Total attack speed  increased by 2.5%.</li></ul>"
+  },
+  "Yorick": {
+    "name": "Yorick",
+    "id": 83,
+    "damageDealt": 100,
+    "damageReceived": 100,
+    "effects": "<p><span><span></span> <span>Shepherd of Souls</span></span>\n</p>\n<ul><li>Deaths required for a grave changed to 5 at all levels.</li></ul>"
+  },
+  "Yuumi": {
+    "name": "Yuumi",
+    "id": 350,
+    "damageDealt": 105,
+    "damageReceived": 100,
+    "effects": ""
+  },
+  "Zac": {
+    "name": "Zac",
+    "id": 154,
+    "damageDealt": 100,
+    "damageReceived": 96,
+    "effects": "<ul><li>Healing done increased by 10%.</li></ul>"
+  },
+  "Zed": {
+    "name": "Zed",
+    "id": 238,
+    "damageDealt": 105,
+    "damageReceived": 95,
+    "effects": "<ul><li>Energy regeneration increased by 20%.</li><li>Tenacity increased by 20%.</li></ul>"
+  },
+  "Zeri": {
+    "name": "Zeri",
+    "id": 221,
+    "damageDealt": 110,
+    "damageReceived": 100,
+    "effects": "<p><span><span></span> <span>Burst Fire</span></span>\n</p>\n<ul><li><b>Zeri</b> will start the game with one point already ranked in <i>Burst Fire!</i>, allowing her to allocate the other two to her other abilities.</li></ul>"
+  },
+  "Ziggs": {
+    "name": "Ziggs",
+    "id": 115,
+    "damageDealt": 87,
+    "damageReceived": 120,
+    "effects": "<ul><li>Ability haste reduced by 20.</li></ul>\n<p><span><span></span> <span>Short Fuse</span></span>\n</p>\n<ul><li>Damage to structures reduced to 150%.</li></ul>\n<p><span><span></span> <span>Satchel Charge</span></span>\n</p>\n<ul><li>Tower execute threshold reduced to <span>12.<small>5</small> / 15 / 17.<small>5</small> / 20 / 22.<small>5</small>% of turret's <b>maximum</b> health</span>.</li></ul>"
+  },
+  "Zilean": {
+    "name": "Zilean",
+    "id": 26,
+    "damageDealt": 105,
+    "damageReceived": 95,
+    "effects": "<ul><li>Ability haste increased by 10.</li></ul>"
+  },
+  "Zoe": {
+    "name": "Zoe",
+    "id": 142,
+    "damageDealt": 110,
+    "damageReceived": 95,
+    "effects": ""
+  },
+  "Zyra": {
+    "name": "Zyra",
+    "id": 143,
+    "damageDealt": 90,
+    "damageReceived": 105,
+    "effects": "<ul><li>Ability haste reduced by 10.</li></ul>"
+  }
+}

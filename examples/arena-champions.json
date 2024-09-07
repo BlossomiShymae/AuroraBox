@@ -1,0 +1,652 @@
+{
+  "Aatrox": {
+    "name": "Aatrox",
+    "id": 266,
+    "effects": "<p><span><span></span> <span>Umbral Dash</span></span>\n</p>\n<ul><li>Healing changed to 18 / 19.<small>5</small> / 21 / 22.<small>5</small> / 24% of damage dealt.</li></ul>\n<p><span><span></span> <span>World Ender</span></span>\n</p>\n<ul><li>Bonus attack damage changed to <span>30 / 42.<small>5</small> / 55% AD</span>.</li></ul>"
+  },
+  "Ahri": {
+    "name": "Ahri",
+    "id": 103,
+    "effects": "<p><span><span></span> <span>Fox-Fire</span></span>\n</p>\n<ul><li>Base damage changed to 70 / 95 / 120 / 145 / 170.</li>\n<li>Bonus movement speed changed to 50%.</li></ul>\n<p><span><span></span> <span>Charm</span></span>\n</p>\n<ul><li>Cooldown changed to 10 seconds.</li></ul>\n<p><span><span></span> <span>Spirit Rush</span></span>\n</p>\n<ul><li>Additional recasts per takedown changed to 2.</li></ul>"
+  },
+  "Akali": {
+    "name": "Akali",
+    "id": 84,
+    "effects": "<p>Stats\n</p>\n<ul><li>Health growth changed to 121.</li></ul>\n<p><span><span></span> <span>Five Point Strike</span></span>\n</p>\n<ul><li>Base damage changed to 70 / 100 / 130 / 160 / 190.</li>\n<li>Bonus AD ratio changed to <span>75% <b>bonus</b> AD</span>.</li>\n<li>AP ratio changed to <span>75% AP</span>.</li></ul>\n<p><span><span></span> <span>Twilight Shroud</span></span>\n</p>\n<ul><li>Energy restoration changed to 150.</li>\n<li>Bonus movement speed changed to 40 / 45 / 50 / 55 / 60%.</li>\n<li>Cooldown changed to 10 seconds from 20.</li></ul>\n<p><span><span></span> <span>Shuriken Flip</span></span>\n</p>\n<ul><li>Cooldown changed to 13 / 12 / 11 / 10 / 9 seconds.</li></ul>"
+  },
+  "Akshan": {
+    "name": "Akshan",
+    "id": 166,
+    "effects": "<p>Stats\n</p>\n<ul><li>Health growth changed to 115.</li>\n<li>Attack damage growth changed to 3.<small>7</small>.</li></ul>\n<p><span><span></span> <span>Avengerang</span></span>\n</p>\n<ul><li>Base damage changed to 15 / 45 / 75 / 105 / 135.</li>\n<li>AD ratio changed to <span>100% AD</span>.</li>\n<li>Bonus movement speed changed to 40%.</li></ul>\n<p><span><span></span> <span>Going Rogue</span></span>\n</p>\n<ul><li>Scoundrel takedown gold changed to 200.</li>\n<li><span><b>New Effect:</b></span> Scoundrel takedown gold is also granted to his ally.</li>\n<li>Revive now spawns ally in the battlefield rather than at the spawn.</li>\n<li>Ally revive health changed to <span>60% <b>maximum</b> health</span>.</li></ul>\n<p><span><span></span> <span>Heroic Swing</span></span>\n</p>\n<ul><li>Attack speed ratio changed to <span>1 + 0.<small>45</small> per 100% <b>bonus</b> attack speed</span>.</li>\n<li>Bonus AD ratio changed to <span>24.<small>59</small>%% <b>bonus</b> AD</span>.</li>\n<li>Cooldown changed to 15 / 14 / 13 / 12 / 11 seconds.</li></ul>\n<p><span><span></span> <span>Comeuppance</span></span>\n</p>\n<ul><li>AD ratio changed to <span>20% AD</span>.</li>\n<li>Cooldown changed to 40 seconds at all ranks.</li></ul>"
+  },
+  "Alistar": {
+    "name": "Alistar",
+    "id": 12,
+    "effects": "<p><span><span></span> <span>Pulverize</span></span>\n</p>\n<ul><li>Cooldown changed to 17 / 16 / 15 / 14 / 13 seconds.</li></ul>\n<p><span><span></span> <span>Headbutt</span></span>\n</p>\n<ul><li>Cooldown changed to 26 / 23.<small>5</small> / 21 / 18.<small>5</small> / 16 seconds.</li></ul>\n<p><span><span></span> <span>Trample</span></span>\n</p>\n<ul><li>AP ratio per tick changed to <span>10% AP</span>.</li></ul>\n<p><span><span></span> <span>Unbreakable Will</span></span>\n</p>\n<ul><li>Damage reduction changed to 50 / 60 / 70%.</li>\n<li>Cooldown changed to 180 / 150 / 120 seconds.</li></ul>"
+  },
+  "Annie": {
+    "name": "Annie",
+    "id": 1,
+    "effects": "<p>Stats\n</p>\n<ul><li>Health growth changed to 92.</li></ul>\n<p><span><span></span> <span>Pyromania</span></span>\n</p>\n<ul><li>Stun duration changed to <span>1 / 1.<small>25</small> / 1.<small>5</small> (based on level)</span> seconds.</li></ul>\n<p><span><span></span> <span>Disintegrate</span></span>\n</p>\n<ul><li>Base damage changed to 60 / 95 / 130 / 165 / 200.</li>\n<li>AP ratio changed to <span>65% AP</span>.</li></ul>\n<p><span><span></span> <span>Incinerate</span></span>\n</p>\n<ul><li>Base damage changed to 60 / 100 / 140 / 180 / 220.</li>\n<li>AP ratio changed to <span>75% AP</span>.</li></ul>\n<p><span><span></span> <span>Summon: Tibbers</span></span>\n</p>\n<ul><li>Tibbers base health changed to 50% value.</li>\n<li>Initial base damage changed to 125 / 225 / 325.</li>\n<li>Tibbers base attack damage changed to 25 / 50 / 75.</li>\n<li>Tibbers attack damage AP ratio changed to <span>10% AP</span>.</li>\n<li>Tibbers aura base damage changed to 15 / 20 / 25.</li></ul>"
+  },
+  "Aphelios": {
+    "name": "Aphelios",
+    "id": 523,
+    "effects": "<p><span><span></span> <span>The Hitman and the Seer</span></span>\n</p>\n<ul><li>Weapon ammunition changed to 30.</li></ul>"
+  },
+  "Ashe": {
+    "name": "Ashe",
+    "id": 22,
+    "effects": "<p><span><span></span> <span>Frost Shot</span></span>\n</p>\n<ul><li>Slow duration changed to 1.<small>5</small> seconds.</li></ul>\n<p><span><span></span> <span>Volley</span></span>\n</p>\n<ul><li>Base damage changed to 25 / 45 / 65 / 85 / 105.</li>\n<li>AD ratio changed to <span>120% AD</span>.</li>\n<li>Cooldown changed to 20 / 16.<small>5</small> / 13 / 9.<small>5</small> / 6 seconds.</li></ul>\n<p><span><span></span> <span>Enchanted Crystal Arrow</span></span>\n</p>\n<ul><li>AP ratio changed to <span>200% AP</span>.</li>\n<li>Stun duration changed to <span>1.<small>5</small> &#8722; 4.<small>5</small> (based on distance traveled)</span>.</li></ul>"
+  },
+  "AurelionSol": {
+    "name": "Aurelion Sol",
+    "id": 136,
+    "effects": "<p><span><span></span> <span>Cosmic Creator</span></span>\n</p>\n<ul><li><span><b>New Effect:</b></span> Gains <span>40 Stardust</span> stacks per round.</li></ul>\n<p><span><span></span> <span>Breath of Light</span></span>\n</p>\n<ul><li>Burst damage health ratio changed to <span>(4% Stardust)</span><span>%</span> <span>of target's <b>maximum</b> health</span>.</li></ul>\n<p><span><span></span> <span>Astral Flight</span></span>\n</p>\n<ul><li>Cooldown changed to 10 / 9 / 8 / 7 / 6 seconds.</li></ul>\n<p><span><span></span> <span>Singularity</span></span>\n</p>\n<ul><li>Cooldown changed to 8 seconds.</li></ul>"
+  },
+  "Azir": {
+    "name": "Azir",
+    "id": 268,
+    "effects": "<p>General\n</p>\n<ul><li><span><b>New Effect:</b></span> Now passively gains <span><span>0 &#8722; 187 (based on level)</span> <b>bonus</b> health</span>.</li></ul>\n<p><span><span></span> <span>Conquering Sands</span></span>\n</p>\n<ul><li>Cooldown changed to 12 / 10.<small>5</small> / 9 / 7.<small>5</small> / 6 seconds.</li></ul>\n<p><span><span></span> <span>Arise!</span></span>\n</p>\n<ul><li>On-hit and on-attack effectiveness changed to 100%.</li>\n<li>Base damage changed to 55 / 72 / 89 / 106 / 123.</li>\n<li>AP ratio changed to <span>60% AP</span>.</li></ul>\n<p><span><span></span> <span>Shifting Sands</span></span>\n</p>\n<ul><li>Shield AP ratio changed to <span>75% AP</span>.</li>\n<li>Cooldown changed to 16 / 15 / 14 / 13 / 12 seconds.</li></ul>\n<p><span><span></span> <span>Emperor's Divide</span></span>\n</p>\n<ul><li>Cooldown changed to 80 / 60 / 40 seconds.</li></ul>"
+  },
+  "Bard": {
+    "name": "Bard",
+    "id": 432,
+    "effects": "<p><span><span></span> <span>Traveler's Call</span></span>\n</p>\n<ul><li>Increased Chime spawn rate during combat.</li>\n<li>Chimes per upgrade changed to 4.</li>\n<li>AP ratio changed to <span>50% AP</span>.</li></ul>\n<p><span><span></span> <span>Caretaker's Shrine</span></span>\n</p>\n<ul><li>Charge time changed to 8 seconds.</li>\n<li>Now affected by +70 ability haste.</li>\n<li>Maximum number of shrines active changed to 33.</li>\n<li>Healing doubled.</li></ul>\n<p><span><span></span> <span>Magical Journey</span></span>\n</p>\n<ul><li>Now affected by +70 ability haste.</li></ul>"
+  },
+  "Belveth": {
+    "name": "Bel'Veth",
+    "id": 200,
+    "effects": "<p><span><span></span> <span>Death in Lavender</span></span>\n</p>\n<ul><li><span><b>New Effect:</b></span> Gains 12 <i>Lavender</i> stacks per round.</li></ul>\n<p><span><span></span> <span>Royal Maelstrom</span></span>\n</p>\n<ul><li>Life steal changed to 30%.</li></ul>\n<p><span><span></span> <span>Endless Banquet</span></span>\n</p>\n<ul><li>Base on-hit damage changed to 8 / 10 / 12.</li></ul>"
+  },
+  "Blitzcrank": {
+    "name": "Blitzcrank",
+    "id": 53,
+    "effects": "<p>Stats\n</p>\n<ul><li>Health growth changed to 139.</li></ul>\n<p><span><span></span> <span>Mana Barrier</span></span>\n</p>\n<ul><li>Shield doubled.</li>\n<li>Static cooldown changed to 20 seconds.</li></ul>\n<p><span><span></span> <span>Rocket Grab</span></span>\n</p>\n<ul><li>AP ratio changed to <span>150% AP</span>.</li>\n<li>Cooldown changed to 11 / 10.<small>5</small> / 10 / 9.<small>5</small> / 9 seconds.</li></ul>\n<p><span><span></span> <span>Overdrive</span></span>\n</p>\n<ul><li>Self-slow strength changed to 20%.</li>\n<li>Self-slow duration changed to 1 second.</li>\n<li>Bonus attack speed changed to 70 / 75 / 80 / 85 / 90%.</li></ul>\n<p><span><span></span> <span>Static Field</span></span>\n</p>\n<ul><li>Passive base damage changed to 60 / 110 / 160.</li>\n<li>Passive AP ratio changed to <span>40 / 50 / 60% AP</span>.</li>\n<li>Active AP ratio changed to <span>130% AP</span>.</li></ul>"
+  },
+  "Brand": {
+    "name": "Brand",
+    "id": 63,
+    "effects": "<p><span><span></span> <span>Blaze</span></span>\n</p>\n<ul><li>Total damage over time changed to <span>1.<small>5</small>% of target's <b>maximum</b> health</span>.</li></ul>\n<p><span><span></span> <span>Pillar of Flame</span></span>\n</p>\n<ul><li>Base damage changed to 70 / 110 / 150 / 190 / 230.</li>\n<li>AP ratio changed to <span>50% AP</span>.</li></ul>\n<p><span><span></span> <span>Conflagration</span></span>\n</p>\n<ul><li>AP ratio changed to <span>45% AP</span>.</li></ul>\n<p><span><span></span> <span>Pyroclasm</span></span>\n</p>\n<ul><li>Base damage changed to 100 / 125 / 150 / 175 / 200.</li>\n<li>AP ratio changed to <span>20% AP</span>.</li></ul>"
+  },
+  "Braum": {
+    "name": "Braum",
+    "id": 201,
+    "effects": "<p>Stats\n</p>\n<ul><li>Health growth changed to 132.</li>\n<li>Attack speed growth changed to 4.<small>5</small>%.</li></ul>\n<p><span><span></span> <span>Stand Behind Me</span></span>\n</p>\n<ul><li>Base resistances changed to 20 / 30 / 40 / 50 / 60.</li>\n<li>Self armor ratio changed to <span>45% <b>bonus</b> armor</span>.</li>\n<li>Ally armor ratio changed to <span>16% <b>bonus</b> armor</span>.</li>\n<li>Self magic resistance ratio changed to <span>45% <b>bonus</b> magic resistance</span>.</li>\n<li>Ally magic resistance ratio changed to <span>16% <b>bonus</b> magic resistance</span>.</li></ul>"
+  },
+  "Briar": {
+    "name": "Briar",
+    "id": 233,
+    "effects": "<p>Stats\n</p>\n<ul><li>Health growth changed to 90.</li>\n<li>Armor growth changed to 3.<small>2</small>.</li></ul>\n<p><span><span></span> <span>Crimson Curse</span></span>\n</p>\n<ul><li>Base healing amplifier changed to <span><span>0% &#8722; 35% (based on <b>missing</b> health)</span></span>.</li></ul>\n<p><span><span></span> <span>Head Rush</span></span>\n</p>\n<ul><li>Base damage changed to 50 / 85 / 120 / 155 / 190.</li>\n<li>Resistances reduction changed to 8 / 10 / 12 / 14 / 16%.</li></ul>\n<p><span><span></span> <span>Blood Frenzy</span></span>\n</p>\n<ul><li>Bonus attack speed changed to 50 / 60 / 70 / 80 / 90%.</li></ul>\n<p><span><span></span> <span>Certain Death</span></span>\n</p>\n<ul><li>Base damage changed to 150 / 275 / 400.</li>\n<li>Damage bonus AD ratio changed to <span>90% <b>bonus</b> AD</span>.</li>\n<li>Resistances AD ratio changed to <span>10% AD</span>.</li></ul>"
+  },
+  "Cassiopeia": {
+    "name": "Cassiopeia",
+    "id": 69,
+    "effects": "<p>Stats\n</p>\n<ul><li>Health growth changed to 94.</li></ul>\n<p><span><span></span> <span>Serpentine Grace</span></span>\n</p>\n<ul><li><span><b>New Effect:</b></span> Increases the <span><b>Guardian</b></span> item limit to 2.</li>\n<li>Bonus movement speed changed to <span>2.<small>8</small> &#8722; 50.<small>4</small> (based on level)</span>.</li></ul>\n<p><span><span></span> <span>Miasma</span></span>\n</p>\n<ul><li>Cooldown changed to 28 / 26 / 24 / 22 / 20 seconds.</li></ul>\n<p><span><span></span> <span>Twin Fang</span></span>\n</p>\n<ul><li>Poisoned AP ratio changed to <span>45% AP</span>.</li></ul>\n<p><span><span></span> <span>Petrifying Gaze</span></span>\n</p>\n<ul><li>Base damage changed to 100 / 175 / 250.</li>\n<li>AP ratio changed to <span>40% AP</span>.</li></ul>"
+  },
+  "Chogath": {
+    "name": "Cho'Gath",
+    "id": 31,
+    "effects": "<p><span><span></span> <span>Rupture</span></span>\n</p>\n<ul><li>Base damage changed to 100 / 160 / 220 / 280 / 340.</li>\n<li>Slow strength changed to 70%.</li>\n<li>Cooldown changed to 5 seconds at all ranks.</li></ul>\n<p><span><span></span> <span>Vorpal Spikes</span></span>\n</p>\n<ul><li>Base damage changed to 32 / 44 / 56 / 68 / 80.</li>\n<li>Slow strength changed to 40 / 45 / 50 / 55 / 60%.</li></ul>\n<p><span><span></span> <span>Feast</span></span>\n</p>\n<ul><li><span><b>New Effect:</b></span> Gains 1 <i>Feast</i> stack per round after learning this ability.</li>\n<li>Champion base damage changed to 400 / 575 / 750.</li>\n<li>Bonus health per stack changed to 100 / 150 / 200.</li>\n<li>Cooldown changed to 60 / 50 / 40 seconds.</li></ul>"
+  },
+  "Corki": {
+    "name": "Corki",
+    "id": 42,
+    "effects": "<p><span><span></span> <span>Valkyrie</span></span>\n</p>\n<ul><li>Total AP ratio changed to <span>180% AP</span>.</li>\n<li>Cooldown changed to 16 / 15 / 14 / 13 / 12 seconds.</li></ul>\n<p><span><span></span> <span>Missile Barrage</span></span>\n</p>\n<ul><li>Base damage changed to 100 / 200 / 300.</li></ul>"
+  },
+  "Darius": {
+    "name": "Darius",
+    "id": 122,
+    "effects": "<p><span><span></span> <span>Decimate</span></span>\n</p>\n<ul><li>AD ratio changed to <span>80 / 90 / 100 / 110 / 120% AD</span>.</li>\n<li>Heal per champion hit changed to <span>10% of his <b>missing</b> health</span>.</li>\n<li>Cooldown changed to 10 / 9 / 8 / 7 / 6 seconds.</li></ul>\n<p><span><span></span> <span>Crippling Strike</span></span>\n</p>\n<ul><li>Cooldown changed to 7 seconds.</li></ul>"
+  },
+  "Diana": {
+    "name": "Diana",
+    "id": 131,
+    "effects": "<p><span><span></span> <span>Moonsilver Blade</span></span>\n</p>\n<ul><li>AP ratio changed to <span>85% AP</span>.</li></ul>\n<p><span><span></span> <span>Pale Cascade</span></span>\n</p>\n<ul><li>Base shield changed to 60 / 85 / 110 / 135 / 160.</li></ul>\n<p><span><span></span> <span>Lunar Rush</span></span>\n</p>\n<ul><li>Cooldown changed to 20 / 18 / 16 / 14 / 12 seconds.</li></ul>\n<p><span><span></span> <span>Moonfall</span></span>\n</p>\n<ul><li>Base damage changed to 350 / 550 / 750.</li></ul>"
+  },
+  "Draven": {
+    "name": "Draven",
+    "id": 119,
+    "effects": "<p><span><span></span> <span>League of Draven</span></span>\n</p>\n<ul><li>Adoration stacks per kill or <span><span></span> <span>Axe</span></span> catch changed to 5.</li>\n<li>Adoration stacks per <span><span></span> <span>Axe</span></span> catch from an enemy <span><span></span> <span>Draven</span></span> changed to 50.</li>\n<li><span><b>New Effect:</b></span> Gains 50 <i>Adoration</i> stacks per round.</li></ul>\n<p><span><span></span> <span>Spinning Axe</span></span>\n</p>\n<ul><li>Bonus AD ratio changed to <span>70 / 80 / 90 / 100 / 110% <b>bonus</b> AD</span>.</li></ul>"
+  },
+  "Ekko": {
+    "name": "Ekko",
+    "id": 245,
+    "effects": "<p>Stats\n</p>\n<ul><li>Health growth changed to 121.</li></ul>\n<p><span><span></span> <span>Z-Drive Resonance</span></span>\n</p>\n<ul><li>Base damage changed to <span>33 &#8722; 154 (based on level)</span>.</li></ul>\n<p><span><span></span> <span>Timewinder</span></span>\n</p>\n<ul><li>Initial base damage changed to 90 / 105 / 120 / 135 / 150.</li>\n<li>Secondary base damage changed to 50 / 75 / 100 / 125 / 150.</li></ul>\n<p><span><span></span> <span>Parallel Convergence</span></span>\n</p>\n<ul><li>Base damage changed to <span>4% of target's <b>missing</b> health</span>.</li>\n<li>Cooldown changed to 14 / 13 / 12 / 11 / 10 seconds.</li></ul>"
+  },
+  "Evelynn": {
+    "name": "Evelynn",
+    "id": 28,
+    "effects": "<p><span><span></span> <span>Hate Spike</span></span>\n</p>\n<ul><li>Dart base damage changed to 35 / 45 / 55 / 65 / 75.</li>\n<li>Dart AP ratio changed to <span>35% AP</span>.</li>\n<li>Spikes base damage changed to 30 / 40 / 50 / 60 / 70.</li>\n<li>Spikes AP ratio changed to <span>40% AP</span>.</li></ul>\n<p><span><span></span> <span>Allure</span></span>\n</p>\n<ul><li>Cooldown changed to 13 / 12 / 11 / 10 / 9 seconds.</li></ul>\n<p><span><span></span> <span>Whiplash</span></span>\n</p>\n<ul><li>Base damage changed to <span>5% of target's <b>maximum</b> health</span>.</li>\n<li><span><b>Removed:</b></span> No longer scales with <span>3%</span> <span>(+ 1.<small>5</small>% per 100 AP)</span> <span>of target's <b>maximum</b> health</span>.</li>\n<li><span><span></span> <span>Empowered Whiplash</span></span>\n<ul><li>Base damage changed to <span>7% of target's <b>maximum</b> health</span>.</li>\n<li><span><b>Removed:</b></span> No longer scales with <span>4%</span> <span>(+ 2.<small>5</small>% per 100 AP)</span> <span>of target's <b>maximum</b> health</span>.</li></ul></li></ul>\n<p><span><span></span> <span>Last Caress</span></span>\n</p>\n<ul><li>Cooldown changed to 90 / 75 / 60 seconds.</li></ul>"
+  },
+  "Ezreal": {
+    "name": "Ezreal",
+    "id": 81,
+    "effects": "<p><span><span></span> <span>Rising Spell Force</span></span>\n</p>\n<ul><li>Bonus attack speed per stack changed to 15%.</li></ul>\n<p><span><span></span> <span>Mystic Shot</span></span>\n</p>\n<ul><li>Base damage changed to 30 / 55 / 80 / 105 / 130.</li>\n<li>AD ratio changed to <span>140% AD</span>.</li>\n<li>AP ratio changed to <span>20% AP</span>.</li></ul>\n<p><span><span></span> <span>Essence Flux</span></span>\n</p>\n<ul><li>Base damage changed to 110 / 170 / 230 / 290 / 350.</li></ul>\n<p><span><span></span> <span>Arcane Shift</span></span>\n</p>\n<ul><li>Base damage changed to 90 / 140 / 190 / 240 / 290.</li>\n<li>AP ratio changed to <span>90% AP</span>.</li>\n<li>Cooldown changed to 18 / 16 / 14 / 12 / 10 seconds.</li></ul>\n<p><span><span></span> <span>Trueshot Barrage</span></span>\n</p>\n<ul><li>Base damage changed to 390 / 540 / 690.</li>\n<li>AP ratio changed to <span>110% AP</span>.</li></ul>"
+  },
+  "Fiora": {
+    "name": "Fiora",
+    "id": 114,
+    "effects": "<p>Stats\n</p>\n<ul><li>Health growth changed to 89.</li>\n<li>Attack damage growth changed to 2.<small>8</small>.</li></ul>\n<p><span><span></span> <span>Duelist's Dance</span></span>\n</p>\n<ul><li>Base damage changed to <span>2% of target's <b>maximum</b> health</span>.</li>\n<li>Bonus AD ratio changed to <span>3% per 100 <b>bonus</b> AD</span>.</li></ul>\n<p><span><span></span> <span>Lunge</span></span>\n</p>\n<ul><li>Base damage changed to 55 / 65 / 75 / 85 / 95.</li>\n<li>Bonus AD ratio changed to <span>70 / 75 / 80 / 85 / 90% <b>bonus</b> AD</span>.</li></ul>\n<p><span><span></span> <span>Riposte</span></span>\n</p>\n<ul><li>Cooldown changed to 28 / 26 / 24 / 22 / 20 seconds.</li></ul>"
+  },
+  "Fizz": {
+    "name": "Fizz",
+    "id": 105,
+    "effects": "<p>Stats\n</p>\n<ul><li>Health growth changed to 121.</li></ul>\n<p><span><span></span> <span>Seastone Trident</span></span>\n</p>\n<ul><li>Active base damage changed to 70 / 90 / 110 / 130 / 150.</li></ul>\n<p><span><span></span> <span>Playful</span></span>\n</p>\n<ul><li>Cooldown changed to 13 / 11.<small>75</small> / 10.<small>5</small> / 9.<small>25</small> / 8 seconds.</li>\n<li>Slow strength changed to 50 / 55 / 60 / 65 / 70%.</li></ul>\n<p><span><span></span> <span>Chum the Waters</span></span>\n</p>\n<ul><li>Cooldown changed to 50 seconds at all ranks.</li></ul>"
+  },
+  "Galio": {
+    "name": "Galio",
+    "id": 3,
+    "effects": "<p>Stats\n</p>\n<ul><li>Health growth changed to 136.</li></ul>\n<p><span><span></span> <span>Winds of War</span></span>\n</p>\n<ul><li>Base damage changed to 70 / 105 / 140 / 175 / 210.</li></ul>\n<p><span><span></span> <span>Shield of Durand</span></span>\n</p>\n<ul><li>Shield health ratio changed to <span>7.<small>5</small> / 9 / 10.<small>5</small> / 12 / 13.<small>5</small>% <b>maximum</b> health</span>.</li>\n<li>Shield timer changed to 5 seconds.</li>\n<li>Cooldown changed to 18 / 17 / 16 / 15 / 14 seconds</li></ul>\n<p><span><span></span> <span>Hero's Entrance</span></span>\n</p>\n<ul><li>Base damage changed to 150 / 300 / 450.</li>\n<li>Knock up duration changed to 1.<small>5</small> seconds.</li></ul>"
+  },
+  "Gangplank": {
+    "name": "Gangplank",
+    "id": 41,
+    "effects": "<p><span><span></span> <span>Parrrley</span></span>\n</p>\n<ul><li><span><b>New Effect:</b></span> Now grants gold and <span><span></span> <span>Silver Serpents</span></span> equal to 7% of damage dealt to champions.</li>\n<li><span><b>New Effect:</b></span> Gains 187.<small>5</small> <span><span></span> <span>Silver Serpents</span></span> per round.</li></ul>"
+  },
+  "Garen": {
+    "name": "Garen",
+    "id": 86,
+    "effects": "<p><span><span></span> <span>Decisive Strike</span></span>\n</p>\n<ul><li>Silence duration changed to 1 second.</li></ul>\n<p><span><span></span> <span>Courage</span></span>\n</p>\n<ul><li><span><b>New Effect:</b></span> Gains 18.<small>75</small> <i>Courage</i> stacks per round.</li>\n<li>Damage reduction changed to 20%.</li>\n<li>Damage reduction duration changed to 3 seconds.</li></ul>\n<p><span><span></span> <span>Judgment</span></span>\n</p>\n<ul><li>AD ratio per spin changed to <span>33 / 34 / 35 / 36 / 37% AD</span>.</li></ul>"
+  },
+  "Gnar": {
+    "name": "Gnar",
+    "id": 150,
+    "effects": "<p>General\n</p>\n<ul><li><span><b>New Effect:</b></span> Now passively gains <span><span>0 &#8722; 357 (based on level)</span> <b>bonus</b> health</span>.</li></ul>\n<p><span><span></span> <span>Rage Gene</span></span>\n</p>\n<ul><li>Fury generation changed to 150%.</li>\n<li>Tired cooldown changed to 5 seconds.</li></ul>\n<p><span><span></span> <span>Boomerang Throw</span></span>\n</p>\n<ul><li>Cooldown changed to 14 / 12.<small>5</small> / 11 / 9.<small>5</small> / 8 seconds.</li>\n<li>Base damage changed to 20 / 65 / 110 / 155 / 200.</li>\n<li>Slow changed to 25 / 30 / 35 / 40 / 45%.</li>\n<li><span><span></span> <span>Boulder Toss</span></span> cooldown changed to 14 / 12.<small>5</small> / 11 / 9.<small>5</small> / 8 seconds.</li>\n<li><span><span></span> <span>Boulder Toss</span></span> slow changed to 40 / 45 / 50 / 55 / 60%.</li></ul>\n<p><span><span></span> <span>Hyper</span></span>\n</p>\n<ul><li>Movement speed duration changed to 4 seconds.</li></ul>\n<p><span><span></span> <span>Hop</span></span>\n</p>\n<ul><li>Cooldown changed to 16 / 14 / 12 / 10 / 8 seconds.</li>\n<li><span><span></span> <span>Crunch</span></span> cooldown changed to 16 / 14 / 12 / 10 / 8 seconds.</li></ul>"
+  },
+  "Gragas": {
+    "name": "Gragas",
+    "id": 79,
+    "effects": "<p><span><span></span> <span>Happy Hour</span></span>\n</p>\n<ul><li>Heal changed to <span>3.<small>5</small>% <b>maximum</b> health</span>.</li>\n<li>Cooldown changed to 4 seconds.</li></ul>\n<p><span><span></span> <span>Drunken Rage</span></span>\n</p>\n<ul><li>Health ratio changed to <span>9% of target's <b>maximum</b> health</span>.</li></ul>\n<p><span><span></span> <span>Body Slam</span></span>\n</p>\n<ul><li>Base damage changed to 80 / 115 / 150 / 185 / 220.</li>\n<li>Cooldown changed to 15 / 14.<small>5</small> / 14 / 13.<small>5</small> / 13 seconds.</li>\n<li>Cooldown refund changed to 25%.</li></ul>"
+  },
+  "Hecarim": {
+    "name": "Hecarim",
+    "id": 120,
+    "effects": "<p><span><span></span> <span>Rampage</span></span>\n</p>\n<ul><li>Base damage changed to 80 / 105 / 130 / 155 / 180.</li></ul>\n<p><span><span></span> <span>Spirit of Dread</span></span>\n</p>\n<ul><li>Base healing changed to 35% of damage dealt.</li>\n<li>Healing bonus AD ratio changed to <span>3% per 100 <b>bonus</b> AD</span>.</li>\n<li>Total AP ratio changed to <span>120% AP</span>.</li></ul>\n<p><span><span></span> <span>Devastating Charge</span></span>\n</p>\n<ul><li>Minimum base damage changed to 50 / 65 / 80 / 95 / 110.</li>\n<li>Maximum base damage changed to 100 / 130 / 160 / 190 / 220.</li>\n<li>Minimum bonus AD ratio changed to <span>60% <b>bonus</b> AD</span>.</li>\n<li>Maximum bonus AD ratio changed to <span>120% <b>bonus</b> AD</span>.</li></ul>\n<p><span><span></span> <span>Onslaught of Shadows</span></span>\n</p>\n<ul><li>AP ratio changed to <span>130% AP</span>.</li></ul>"
+  },
+  "Heimerdinger": {
+    "name": "Heimerdinger",
+    "id": 74,
+    "effects": "<p><span><span></span> <span>H-28G Evolution Turret</span></span>\n</p>\n<ul><li>Turret health changed to 70% value.</li>\n<li>Turret base damage changed to 4 / 6 / 8 / 10 / 12.</li>\n<li>Turret AP ratio changed to <span>25% AP</span>.</li>\n<li>Turret beam base damage changed to 30 / 45 / 60 / 75 / 90.</li>\n<li>Turret beam AP ratio changed to <span>45% AP</span>.</li></ul>\n<p><span><span></span> <span>Hextech Micro-Rockets</span></span>\n</p>\n<ul><li>Initial damage AP ratio changed to <span>65% AP</span>.</li>\n<li>Cooldown changed to 10 / 9 / 8 / 7 / 6 seconds.</li></ul>\n<p><span><span></span> <span>UPGRADE!!!</span></span>\n</p>\n<ul><li><span><span></span> <span>H-28Q Apex Turret</span></span> base damage changed to 50 / 57.<small>5</small> / 65 / 72.<small>5</small> / 80.</li>\n<li><span><span></span> <span>H-28Q Apex Turret</span></span> beam base damage changed to 90 / 107.<small>5</small> / 125 / 142.<small>5</small> / 160.</li></ul>"
+  },
+  "Illaoi": {
+    "name": "Illaoi",
+    "id": 420,
+    "effects": "<p>Stats\n</p>\n<ul><li>Health growth changed to 99.</li>\n<li>Attack damage growth changed to 4.</li></ul>\n<p><span><span></span> <span>Prophet of an Elder God</span></span>\n</p>\n<ul><li>Heal health ratio changed to <span>2.<small>5</small>% <b>missing</b> health</span>.</li></ul>\n<p><span><span></span> <span>Tentacle Smash</span></span>\n</p>\n<ul><li>Bonus tentacle damage changed to 4 / 8 / 12 / 16 / 20%.</li></ul>\n<p><span><span></span> <span>Harsh Lesson</span></span>\n</p>\n<ul><li>Cooldown changed to 6 seconds.</li></ul>"
+  },
+  "Irelia": {
+    "name": "Irelia",
+    "id": 39,
+    "effects": "<p>Stats\n</p>\n<ul><li>Health growth changed to 136.</li></ul>\n<p><span><span></span> <span>Defiant Dance</span></span>\n</p>\n<ul><li>Cooldown changed to 16 / 15 / 14 / 13 / 12 seconds.</li></ul>\n<p><span><span></span> <span>Flawless Duet</span></span>\n</p>\n<ul><li>AP ratio changed to <span>100% AP</span>.</li></ul>\n<p><span><span></span> <span>Vanguard's Edge</span></span>\n</p>\n<ul><li><span><span></span> <span>Bladesurge</span></span> cooldown reduction changed to 1.<small>5</small> / 2.<small>5</small> / 3.<small>5</small>.</li>\n<li>Cooldown changed to 40 seconds at all ranks.</li>\n<li>AP ratio changed to <span>100% AP</span>.</li></ul>"
+  },
+  "Ivern": {
+    "name": "Ivern",
+    "id": 427,
+    "effects": "<p><span><span></span> <span>Rootcaller</span></span>\n</p>\n<ul><li>Cooldown changed to 14 / 13 / 12 / 11 / 10 seconds.</li></ul>\n<p><span><span></span> <span>Triggerseed</span></span>\n</p>\n<ul><li>Base shield changed to 80 / 115 / 150 / 185 / 220.</li>\n<li>Shield AP ratio changed to <span>45% AP</span>.</li>\n<li>Base damage changed to 70 / 90 / 110 / 130 / 150.</li>\n<li>Damage AP ratio changed to <span>80% AP</span>.</li>\n<li>Slow strength changed to 40 / 45 / 50 / 55 / 60%.</li></ul>"
+  },
+  "JarvanIV": {
+    "name": "Jarvan IV",
+    "id": 59,
+    "effects": "<p><span><span></span> <span>Demacian Standard</span></span>\n</p>\n<ul><li>AP ratio changed to <span>100% AP</span>.</li></ul>"
+  },
+  "Jax": {
+    "name": "Jax",
+    "id": 24,
+    "effects": "<p>Stats\n</p>\n<ul><li>Health growth changed to 90.</li>\n<li>Attack damage growth changed to 4.</li></ul>\n<p><span><span></span> <span>Empower</span></span>\n</p>\n<ul><li>Base damage changed to 30 / 55 / 80 / 105 / 130.</li></ul>\n<p><span><span></span> <span>Counter Strike</span></span>\n</p>\n<ul><li>Cooldown changed to 20 / 18.<small>5</small> / 17 / 15.<small>5</small> / 14 seconds.</li></ul>\n<p><span><span></span> <span>Grandmaster-At-Arms</span></span>\n</p>\n<ul><li>Passive base damage changed to 50 / 90 / 130.</li>\n<li>Active base damage changed to 100 / 175 / 250.</li></ul>"
+  },
+  "Jayce": {
+    "name": "Jayce",
+    "id": 126,
+    "effects": "<p><span><span></span> <span>To the Skies!</span></span>\n</p>\n<ul><li><span><span></span> <span>Shock Blast</span></span> base damage changed to 40 / 80 / 120 / 160 / 200.</li></ul>\n<p><span><span></span> <span>Lightning Field</span></span>\n</p>\n<ul><li><span><span></span> <span>Hyper Charge</span></span> AD ratio changed to <span>65 / 75 / 85 / 95 / 105% AD</span>.</li></ul>"
+  },
+  "Jhin": {
+    "name": "Jhin",
+    "id": 202,
+    "effects": "<p><span><span></span> <span>Whisper</span></span>\n</p>\n<ul><li>Critical strike bonus movement speed per <span>1% <b>bonus</b> attack speed</span> changed to 0.<small>6</small>%.</li></ul>\n<p><span><span></span> <span>Dancing Grenade</span></span>\n</p>\n<ul><li>Base damage changed to 65 / 110 / 155 / 200 / 245.</li>\n<li>AD ratio changed to <span>70 / 80 / 90 / 100 / 110% AD</span>.</li></ul>\n<p><span><span></span> <span>Deadly Flourish</span></span>\n</p>\n<ul><li>Base damage changed to 70 / 115 / 160 / 205 / 250.</li>\n<li>Root duration changed to 1.<small>75</small> / 2.<small>125</small> / 2.<small>5</small> / 2.<small>875</small> / 3.<small>25</small> seconds.</li></ul>\n<p><span><span></span> <span>Captive Audience</span></span>\n</p>\n<ul><li>Slow strength changed to 50%.</li></ul>\n<p><span><span></span> <span>Curtain Call</span></span>\n</p>\n<ul><li>Base damage changed to 144 / 294 / 444.</li>\n<li>AD ratio changed to <span>44% AD</span>.</li>\n<li>Cooldown changed to 45 / 30 / 15 seconds.</li></ul>"
+  },
+  "Jinx": {
+    "name": "Jinx",
+    "id": 222,
+    "effects": "<p>Stats\n</p>\n<ul><li>Health growth changed to 115.</li>\n<li>Attack damage growth changed to 3.<small>75</small>.</li></ul>\n<p><span><span></span> <span>Zap!</span></span>\n</p>\n<ul><li>Base damage changed to 10 / 70 / 130 / 190 / 250.</li>\n<li>AD ratio changed to <span>200% AD</span>.</li></ul>\n<p><span><span></span> <span>Super Mega Death Rocket!</span></span>\n</p>\n<ul><li>Cooldown changed to 50 / 40 / 30 seconds.</li></ul>"
+  },
+  "Kaisa": {
+    "name": "Kai'Sa",
+    "id": 145,
+    "effects": "<p><span><span></span> <span>Second Skin</span></span>\n</p>\n<ul><li>On-hit damage changed to 50% value.</li>\n<li>Detonation base damage changed to <span>10% of target's <b>missing</b> health</span>.</li></ul>\n<p><span><span></span> <span>Icathian Rain</span></span>\n</p>\n<ul><li>Bonus AD ratio per missile changed to <span>50% <b>bonus</b> AD</span>.</li>\n<li>AP ratio per missile changed to <span>15% AP</span>.</li></ul>"
+  },
+  "Kalista": {
+    "name": "Kalista",
+    "id": 429,
+    "effects": "<p><span><span></span> <span>Pierce</span></span>\n</p>\n<ul><li>AD ratio changed to <span>135% AD</span>.</li></ul>"
+  },
+  "Karthus": {
+    "name": "Karthus",
+    "id": 30,
+    "effects": "<p>General\n</p>\n<ul><li><span><b>New Effect:</b></span> Now passively gains <span><span>0 &#8722; 314 (based on level)</span> <b>bonus</b> health</span>.</li></ul>\n<p><span><span></span> <span>Lay Waste</span></span>\n</p>\n<ul><li>Base damage changed to 60 / 80 / 100 / 120 / 140.</li>\n<li>AP ratio changed to <span>45% AP</span>.</li></ul>\n<p><span><span></span> <span>Wall of Pain</span></span>\n</p>\n<ul><li>Cooldown changed to 12 seconds.</li></ul>\n<p><span><span></span> <span>Requiem</span></span>\n</p>\n<ul><li>Base damage changed to 350 / 550 / 750.</li>\n<li>AP ratio changed to <span>100% AP</span>.</li>\n<li>Cooldown changed to 60 seconds at all ranks.</li></ul>"
+  },
+  "Kassadin": {
+    "name": "Kassadin",
+    "id": 38,
+    "effects": "<p>Stats\n</p>\n<ul><li>Health growth changed to 128.</li></ul>\n<p><span><span></span> <span>Null Sphere</span></span>\n</p>\n<ul><li>Base damage changed to 100 / 127.<small>5</small> / 155 / 182.<small>5</small> / 210.</li></ul>\n<p><span><span></span> <span>Nether Blade</span></span>\n</p>\n<ul><li>Base damage changed to 75 / 111.<small>25</small> / 147.<small>5</small> / 183.<small>75</small> / 220.</li>\n<li>Cooldown changed to 5 seconds.</li></ul>\n<p><span><span></span> <span>Force Pulse</span></span>\n</p>\n<ul><li>AP ratio changed to <span>80% AP</span>.</li>\n<li>Cooldown reduction per ability cast changed to 1.<small>5</small> seconds.</li></ul>\n<p><span><span></span> <span>Riftwalk</span></span>\n</p>\n<ul><li>Base damage changed to 100 / 120 / 140.</li>\n<li>Bonus damage per stack changed to 45 / 55 / 65.</li></ul>"
+  },
+  "Katarina": {
+    "name": "Katarina",
+    "id": 55,
+    "effects": "<p><span><span></span> <span>Voracity</span></span>\n</p>\n<ul><li>Bonus AD ratio changed to <span>80% <b>bonus</b> AD</span>.</li>\n<li>Passive cooldown reduction changed to 20 seconds.</li></ul>\n<p><span><span></span> <span>Bouncing Blade</span></span>\n</p>\n<ul><li>AP ratio changed to <span>50% AP</span>.</li></ul>\n<p><span><span></span> <span>Shunpo</span></span>\n</p>\n<ul><li>Base damage changed to 50 / 65 / 80 / 95 / 110.</li>\n<li>AD ratio changed to <span>50% AD</span>.</li>\n<li>AP ratio changed to <span>35% AP</span>.</li></ul>\n<p><span><span></span> <span>Death Lotus</span></span>\n</p>\n<ul><li>Base damage per dagger changed to 50 / 62.<small>5</small> / 75.</li>\n<li>AP ratio per dagger changed to <span>22% AP</span>.</li></ul>"
+  },
+  "Kayle": {
+    "name": "Kayle",
+    "id": 10,
+    "effects": "<p><span><span></span> <span>Divine Ascent</span></span>\n</p>\n<ul><li>Wave bonus AD ratio changed to <span>7% <b>bonus</b> AD</span>.</li>\n<li>Wave AP ratio changed to <span>17% AP</span>.</li></ul>\n<p><span><span></span> <span>Radiant Blast</span></span>\n</p>\n<ul><li>Slow changed to 15 / 20 / 25 / 30 / 35%.</li></ul>\n<p><span><span></span> <span>Celestial Blessing</span></span>\n</p>\n<ul><li>Bonus movement speed changed to 15 / 20 / 25 / 30 / 35%.</li></ul>\n<p><span><span></span> <span>Starfire Spellblade</span></span>\n</p>\n<ul><li>Passive base damage changed to 5 / 10 / 15 / 20 / 25.</li>\n<li>Passive AD ratio changed to <span>7% <b>bonus</b> AD</span>.</li>\n<li>Passive AP ratio changed to <span>14% AP</span>.</li>\n<li>Health ratio changed to <span>6.<small>5</small> / 7 / 7.<small>5</small> / 8 / 8.<small>5</small>% of target's <b>missing</b> health</span>.</li></ul>\n<p><span><span></span> <span>Divine Judgment</span></span>\n</p>\n<ul><li>Base damage changed to 150 / 225 / 300.</li>\n<li>Cooldown changed to 320 / 240 / 160 seconds.</li></ul>"
+  },
+  "Kayn": {
+    "name": "Kayn",
+    "id": 141,
+    "effects": "<p><span><span></span> <span>The Darkin Scythe</span></span>\n</p>\n<ul><li><span><b>New Effect:</b></span> Gains 30 <i>Orbs</i> per round.</li>\n<li>Darkin base healing changed to 15% of damage dealt.</li>\n<li>Shadow Assassin bonus damage changed to <span>30% &#8722; 60% (based on level)</span>.</li>\n<li>Shadow Assassin bonus damage cooldown changed to 4 seconds.</li></ul>\n<p><span><span></span> <span>Reaping Slash</span></span>\n</p>\n<ul><li>Darkin health ratio changed to <span>3% of target's <b>maximum</b> health</span>.</li>\n<li>Darkin bonus AD ratio changed to <span>2.<small>5</small>% per 100 <b>bonus</b> AD</span>.</li></ul>\n<p><span><span></span> <span>Shadow Step</span></span>\n</p>\n<ul><li>Shadow Assassin bonus movement speed changed to 100%.</li>\n<li>Shadow Assassin modified cooldown changed to 7 seconds.</li></ul>\n<p><span><span></span> <span>Umbral Trespass</span></span>\n</p>\n<ul><li>Darkin base damage health ratio changed to <span>7% of target's <b>maximum</b> health</span>.</li>\n<li>Darkin damage bonus AD ratio changed to <span>5% per 100 <b>bonus</b> AD</span>.</li>\n<li>Darkin heal changed to 50% of damage amount.</li>\n<li>Shadow Assassin cast range changed to 950 units.</li>\n<li>Shadow Assassin maximum dash range changed to 700 units.</li></ul>"
+  },
+  "Kennen": {
+    "name": "Kennen",
+    "id": 85,
+    "effects": "<p><span><span></span> <span>Electrical Surge</span></span>\n</p>\n<ul><li>Base damage changed to 70 / 90 / 110 / 130 / 150.</li>\n<li>Bonus AD ratio changed to <span>110 / 120 / 130 / 140 / 150% <b>bonus</b> AD</span>.</li>\n<li>AP ratio changed to <span>60% AP</span>.</li></ul>\n<p><span><span></span> <span>Slicing Maelstrom</span></span>\n</p>\n<ul><li>Bonus resistances changed to 20 / 30 / 40.</li>\n<li>Base damage per bolt changed to 30 / 55 / 80.</li>\n<li>AP ratio per bolt changed to <span>18% AP</span>.</li></ul>"
+  },
+  "Khazix": {
+    "name": "Kha'Zix",
+    "id": 121,
+    "effects": "<p><span><span></span> <span>Unseen Threat</span></span>\n</p>\n<ul><li>Bonus AD ratio changed to <span>55% <b>bonus</b> AD</span>.</li>\n<li>Slow strength changed to 35%.</li></ul>\n<p><span><span></span> <span>Taste Their Fear</span></span>\n</p>\n<ul><li>Bonus AD ratio changed to <span>115% <b>bonus</b> AD</span>.</li>\n<li><span><span></span> <span>Evolved Reaper Claws</span></span> cooldown refund changed to 60%.</li></ul>\n<p><span><span></span> <span>Void Spike</span></span>\n</p>\n<ul><li>Base heal changed to 70 / 110 / 150 / 190 / 230.</li>\n<li>Heal AP ratio changed to <span>100% AP</span>.</li></ul>\n<p><span><span></span> <span>Leap</span></span>\n</p>\n<ul><li>Cooldown changed to 12 / 11 / 10 / 9 / 8 seconds.</li>\n<li><span><span></span> <span>Evolved Wings</span></span> cast range changed to 900 units.</li></ul>\n<p><span><span></span> <span>Void Assault</span></span>\n</p>\n<ul><li>Recast window changed to 18 seconds.</li>\n<li><span><span></span> <span>Evolved Adaptive Cloaking</span></span> invisibility duration changed to 3 seconds.</li>\n<li><span><span></span> <span>Evolved Adaptive Cloaking</span></span> number of recasts changed to 3.</li></ul>"
+  },
+  "Kindred": {
+    "name": "Kindred",
+    "id": 203,
+    "effects": "<p>Stats\n</p>\n<ul><li>Attack damage growth changed to 2.<small>75</small>.</li>\n<li>Attack speed growth changed to 3%.</li></ul>\n<p><span><span></span> <span>Mark of the Kindred</span></span>\n</p>\n<ul><li><span><b>New Effect:</b></span> Gains 1 <i>Mark of the Kindred</i> stack per round.</li></ul>\n<p><span><span></span> <span>Wolf's Frenzy</span></span>\n</p>\n<ul><li>Base damage changed to 10 / 15 / 20 / 25 / 30.</li>\n<li>Bonus AD ratio changed to <span>10% <b>bonus</b> AD</span>.</li>\n<li>Health ratio changed to <span>1% of target's <b>current</b> health</span>.</li>\n<li>Damage per mark changed to 0.<small>5</small>%.</li></ul>\n<p><span><span></span> <span>Mounting Dread</span></span>\n</p>\n<ul><li>Base health ratio changed to <span>2% of target's <b>missing</b> health</span>.</li></ul>"
+  },
+  "KogMaw": {
+    "name": "Kog'Maw",
+    "id": 96,
+    "effects": "<p>Stats\n</p>\n<ul><li>Attack damage growth changed to 2.<small>3</small>.</li>\n<li>Attack speed growth changed to 2.<small>25</small>%.</li></ul>\n<p><span><span></span> <span>Caustic Spittle</span></span>\n</p>\n<ul><li>Resistances reduction changed to 15 / 17.<small>5</small> / 20 / 22.<small>5</small> / 25%.</li>\n<li>AP ratio changed to <span>100% AP</span>.</li></ul>\n<p><span><span></span> <span>Bio-Arcane Barrage</span></span>\n</p>\n<ul><li>Base damage changed to <span>2 / 2.<small>75</small> / 3.<small>5</small> / 4.<small>25</small> / 5% of target's <b>maximum</b> health</span>.</li></ul>\n<p><span><span></span> <span>Void Ooze</span></span>\n</p>\n<ul><li>AP ratio changed to <span>100% AP</span>.</li>\n<li>Slow strength changed to 20 / 30 / 40 / 50 / 60%.</li></ul>\n<p><span><span></span> <span>Living Artillery</span></span>\n</p>\n<ul><li>AP ratio changed to <span>55% AP</span>.</li></ul>"
+  },
+  "KSante": {
+    "name": "K'Sante",
+    "id": 897,
+    "effects": "<p>Stats\n</p>\n<ul><li>Health growth changed to 130.</li></ul>\n<p><span><span></span> <span>Ntofo Strikes</span></span>\n</p>\n<ul><li>Base damage changed to 40 / 80 / 120 / 160 / 200.</li>\n<li>Base cooldown changed to 2.<small>75</small> seconds.</li></ul>\n<p><span><span></span> <span>Footwork</span></span>\n</p>\n<ul><li>Cooldown changed to 9 / 8.<small>5</small> / 8 / 7.<small>5</small> / 7 seconds.</li></ul>\n<p><span><span></span> <span>All Out</span></span>\n</p>\n<ul><li>Maximum knock back distance changed to 2000.</li>\n<li>Cooldown changed to 90 / 75 / 60 seconds.</li></ul>"
+  },
+  "Leblanc": {
+    "name": "LeBlanc",
+    "id": 7,
+    "effects": "<p>Stats\n</p>\n<ul><li>Health growth changed to 130.</li></ul>\n<p><span><span></span> <span>Sigil of Malice</span></span>\n</p>\n<ul><li>Base damage changed to 85 / 110 / 135 / 160 / 185.</li></ul>\n<p><span><span></span> <span>Distortion</span></span>\n</p>\n<ul><li>AP ratio changed to <span>80% AP</span>.</li>\n<li>Cooldown changed to 12 / 11 / 10 / 9 / 8 seconds.</li></ul>\n<p><span><span></span> <span>Mimic</span></span>\n</p>\n<ul><li><span><span></span> <span>Mimic: Sigil of Malice</span></span>\n<ul><li>Base damage changed to 90 / 160 / 230.</li>\n<li>AP ratio changed to <span>50% AP</span>.</li></ul></li>\n<li><span><span></span> <span>Mimic: Ethereal Chains</span></span>\n<ul><li>Base damage changed to 90 / 160 / 230.</li>\n<li>AP ratio changed to <span>50% AP</span>.</li></ul></li></ul>"
+  },
+  "LeeSin": {
+    "name": "Lee Sin",
+    "id": 64,
+    "effects": "<p>Stats\n</p>\n<ul><li>Base health changed to 725.</li>\n<li>Health growth changed to 120.</li></ul>\n<p><span><span></span> <span>Sonic Wave</span></span>\n</p>\n<ul><li>Cooldown changed to 8.<small>5</small> / 7.<small>5</small> / 6.<small>5</small> / 5.<small>5</small> / 4.<small>5</small> seconds.</li></ul>\n<p><span><span></span> <span>Safeguard</span></span>\n</p>\n<ul><li>Shield strength changed to 70 / 140 / 210 / 280 / 350.</li>\n<li>Life steal and spell vamp changed to 15 / 20 / 25 / 30 / 35%.</li></ul>\n<p><span><span></span> <span>Tempest</span></span>\n</p>\n<ul><li>Base damage changed to 55 / 90 / 125 / 160 / 195.</li>\n<li>Slow strength changed to 40 / 50 / 60 / 70 / 80%.</li></ul>"
+  },
+  "Leona": {
+    "name": "Leona",
+    "id": 89,
+    "effects": "<p><span><span></span> <span>Shield of Daybreak</span></span>\n</p>\n<ul><li>Cooldown changed to 6 seconds.</li></ul>\n<p><span><span></span> <span>Eclipse</span></span>\n</p>\n<ul><li>AP ratio changed to <span>70% AP</span>.</li>\n<li>Cooldown changed to 14 / 13.<small>5</small> / 13 / 12.<small>5</small> / 12 seconds.</li></ul>\n<p><span><span></span> <span>Solar Flare</span></span>\n</p>\n<ul><li>AP ratio changed to <span>100% AP</span>.</li></ul>"
+  },
+  "Lillia": {
+    "name": "Lillia",
+    "id": 876,
+    "effects": "<p><span><span></span> <span>Dream-Laden Bough</span></span>\n</p>\n<ul><li>Total base damage health ratio changed to <span>4% of target's <b>maximum</b> health</span>.</li></ul>\n<p><span><span></span> <span>Blooming Blows</span></span>\n</p>\n<ul><li>AP ratio changed to <span>30% AP</span>.</li></ul>"
+  },
+  "Lux": {
+    "name": "Lux",
+    "id": 99,
+    "effects": "<p>Stats\n</p>\n<ul><li>Health growth changed to 114.</li></ul>\n<p><span><span></span> <span>Illumination</span></span>\n</p>\n<ul><li>AP ratio changed to <span>50% AP</span>.</li></ul>\n<p><span><span></span> <span>Light Binding</span></span>\n</p>\n<ul><li>Base damage changed to 110 / 150 / 190 / 230 / 270.</li>\n<li>Cooldown changed to 10 / 9.<small>5</small> / 9 / 8.<small>5</small> / 8 seconds.</li></ul>\n<p><span><span></span> <span>Prismatic Barrier</span></span>\n</p>\n<ul><li>Base shield changed to 60 / 90 / 120 / 150 / 180.</li>\n<li>AP ratio changed to <span>45% AP</span>.</li></ul>\n<p><span><span></span> <span>Lucent Singularity</span></span>\n</p>\n<ul><li>Slow changed to 40 / 45 / 50 / 55 / 60%.</li></ul>\n<p><span><span></span> <span>Final Spark</span></span>\n</p>\n<ul><li>Cooldown changed to 30 seconds at all ranks.</li></ul>"
+  },
+  "Malzahar": {
+    "name": "Malzahar",
+    "id": 90,
+    "effects": "<p><span><span></span> <span>Void Swarm</span></span>\n</p>\n<ul><li>Voidling bonus AD ratio changed to <span>60% <b>bonus</b> AD</span>.</li></ul>"
+  },
+  "Maokai": {
+    "name": "Maokai",
+    "id": 57,
+    "effects": "<p><span><span></span> <span>Sap Magic</span></span>\n</p>\n<ul><li>Cooldown refund changed to 3 seconds.</li></ul>\n<p><span><span></span> <span>Bramble Smash</span></span>\n</p>\n<ul><li>Base damage changed to 40 / 70 / 100 / 130 / 160.</li>\n<li>AP ratio changed to <span>60% AP</span>.</li></ul>\n<p><span><span></span> <span>Twisted Advance</span></span>\n</p>\n<ul><li>Cooldown changed to 15 / 14 / 13 / 12 / 11 seconds.</li></ul>"
+  },
+  "MasterYi": {
+    "name": "Master Yi",
+    "id": 11,
+    "effects": "<p>Stats\n</p>\n<ul><li>Attack damage growth changed to 1.<small>7</small>.</li></ul>\n<p><span><span></span> <span>Alpha Strike</span></span>\n</p>\n<ul><li>Base damage changed to 20 / 45 / 70 / 95 / 120.</li>\n<li>AD ratio changed to <span>40% AD</span>.</li></ul>\n<p><span><span></span> <span>Meditate</span></span>\n</p>\n<ul><li>Cooldown changed to 12 seconds.</li></ul>\n<p><span><span></span> <span>Wuju Style</span></span>\n</p>\n<ul><li>Base damage changed to 15 / 20 / 25 / 30 / 35.</li>\n<li>Bonus AD ratio changed to <span>20% <b>bonus</b> AD</span>.</li></ul>"
+  },
+  "MissFortune": {
+    "name": "Miss Fortune",
+    "id": 21,
+    "effects": "<p>Stats\n</p>\n<ul><li>Attack damage growth changed to 3.<small>6</small>.</li>\n<li>Health growth changed to 113.</li></ul>\n<p><span><span></span> <span>Double Up</span></span>\n</p>\n<ul><li>AP ratio changed to <span>55% AP</span>.</li></ul>\n<p><span><span></span> <span>Make It Rain</span></span>\n</p>\n<ul><li>AP ratio per second changed to <span>90% AP</span>.</li></ul>\n<p><span><span></span> <span>Bullet Time</span></span>\n</p>\n<ul><li>AP ratio per wave changed to <span>35% AP</span>.</li></ul>"
+  },
+  "MonkeyKing": {
+    "name": "Wukong",
+    "id": 62,
+    "effects": "<p><span><span></span> <span>Crushing Blow</span></span>\n</p>\n<ul><li>Base damage changed to 10 / 30 / 50 / 70 / 90.</li>\n<li>Bonus AD ratio changed to <span>35% <b>bonus</b> AD</span>.</li></ul>\n<p><span><span></span> <span>Warrior Trickster</span></span>\n</p>\n<ul><li>Cooldown changed to 26 / 24 / 22 / 20 / 18 seconds.</li></ul>\n<p><span><span></span> <span>Cyclone</span></span>\n</p>\n<ul><li>Base damage per tick changed to <span>0.<small>75</small> / 1.<small>125</small> / 1.<small>5</small>% of target's <b>maximum</b> health</span>.</li>\n<li>AD ratio per second changed to <span>110% AD</span>.</li></ul>"
+  },
+  "Mordekaiser": {
+    "name": "Mordekaiser",
+    "id": 82,
+    "effects": "<p><span><span></span> <span>Realm of Death</span></span>\n</p>\n<ul><li>Heal health ratio changed to <span>8% of target's <b>maximum</b> health</span>.</li>\n<li>Percentage of core stats stolen changed to 8%.</li></ul>"
+  },
+  "Morgana": {
+    "name": "Morgana",
+    "id": 25,
+    "effects": "<p><span><span></span> <span>Dark Binding</span></span>\n</p>\n<ul><li>Cooldown changed to 12 seconds.</li></ul>"
+  },
+  "Naafiri": {
+    "name": "Naafiri",
+    "id": 950,
+    "effects": "<p>Stats\n</p>\n<ul><li>Health growth changed to 140.</li></ul>\n<p><span><span></span> <span>We Are More</span></span>\n</p>\n<ul><li>Packmate attack damage bonus AD ratio changed to <span>5% <b>bonus</b> AD</span>.</li></ul>\n<p><span><span></span> <span>Darkin Daggers</span></span>\n</p>\n<ul><li>Bleed base damage changed to 40 / 80 / 120 / 160 / 200.</li>\n<li>Minimum bonus damage changed to 40 / 55 / 70 / 85 / 100.\n<ul><li>Maximum bonus damage changed to 80 / 110 / 140 / 170 / 200.</li></ul></li>\n<li>Minimum bonus damage bonus AD ratio changed to <span>45% <b>bonus</b> AD</span>.\n<ul><li>Maximum bonus damage bonus AD ratio changed to <span>90% <b>bonus</b> AD</span>.</li></ul></li>\n<li>Base heal changed to 60 / 82.<small>5</small> / 105 / 127.<small>5</small> / 150.</li>\n<li>Heal bonus AD ratio changed to <span>50% <b>bonus</b> AD</span>.</li></ul>\n<p><span><span></span> <span>The Call of the Pack</span></span>\n</p>\n<ul><li>Base shield changed to 250 / 500 / 750.</li>\n<li>Bonus attack damage AD ratio changed to <span>6 / 13 / 20% AD</span>.</li>\n<li>Shield bonus AD ratio changed to <span>70% <b>bonus</b> AD</span>.</li></ul>"
+  },
+  "Nami": {
+    "name": "Nami",
+    "id": 267,
+    "effects": "<p><span><span></span> <span>Aqua Prison</span></span>\n</p>\n<ul><li>AP ratio changed to <span>70% AP</span>.</li></ul>\n<p><span><span></span> <span>Ebb and Flow</span></span>\n</p>\n<ul><li>Base damage changed to 65 / 100 / 135 / 170 / 205.</li>\n<li>Damage AP ratio changed to <span>65% AP</span>.</li>\n<li>Base heal changed to 70 / 100 / 130 / 160 / 190.</li>\n<li>Heal AP ratio changed to <span>30% AP</span>.</li></ul>"
+  },
+  "Nasus": {
+    "name": "Nasus",
+    "id": 75,
+    "effects": "<p><span><span></span> <span>Siphoning Strike</span></span>\n</p>\n<ul><li><span><b>New Effect:</b></span> Gains 50 stacks per round.</li></ul>"
+  },
+  "Nautilus": {
+    "name": "Nautilus",
+    "id": 111,
+    "effects": "<p><span><span></span> <span>Staggering Blow</span></span>\n</p>\n<ul><li>On-target cooldown changed to 5 seconds.</li></ul>\n<p><span><span></span> <span>Titan's Wrath</span></span>\n</p>\n<ul><li>Base damage changed to 40 / 55 / 70 / 85 / 100.</li>\n<li>Damage AP ratio changed to <span>55% AP</span>.</li>\n<li>Base shield changed to 80 / 100 / 120 / 140 / 160.</li>\n<li>Shield health ratio changed to <span>9 / 10 / 11 / 12 / 13% of <b>maximum</b> health</span>.</li></ul>"
+  },
+  "Neeko": {
+    "name": "Neeko",
+    "id": 518,
+    "effects": "<p>General\n</p>\n<ul><li><span><b>New Effect:</b></span> Now passively gains <span><span>0 &#8722; 200 (based on level)</span> <b>bonus</b> health</span>.</li></ul>\n<p><span><span></span> <span>Inherent Glamour</span></span>\n</p>\n<ul><li><b>Neeko</b> starts the combat phase disguised as her teammate's champion.</li></ul>\n<p><span><span></span> <span>Blooming Burst</span></span>\n</p>\n<ul><li>Initial hit base damage changed to 90 / 140 / 190 / 240 / 290.</li>\n<li>Second and third hit base damage changed to 75 / 100 / 125 / 150 / 175.</li></ul>\n<p><span><span></span> <span>Shapesplitter</span></span>\n</p>\n<ul><li>On-hit base damage changed to 70 / 105 / 140 / 175 / 210.</li>\n<li>On-hit AP ratio changed to <span>70% AP</span>.</li>\n<li>Cooldown changed to 12 / 11 / 10 / 9 / 8 seconds.</li></ul>\n<p><span><span></span> <span>Tangle-Barbs</span></span>\n</p>\n<ul><li>Root duration increased to 1 / 1.<small>2</small> / 1.<small>4</small> / 1.<small>6</small> / 1.<small>8</small> seconds.\n<ul><li><i>Empowered root duration unchanged.</i></li></ul></li></ul>"
+  },
+  "Nidalee": {
+    "name": "Nidalee",
+    "id": 76,
+    "effects": "<p><span><span></span> <span>Prowl</span></span>\n</p>\n<ul><li>Bonus movement speed changed to 20%.</li></ul>\n<p><span><span></span> <span>Javelin Toss</span></span>\n</p>\n<ul><li><span><span></span> <span>Javelin Toss</span></span> AD ratio changed to <span>120% AD</span>.</li>\n<li><span><span></span> <span>Takedown</span></span> minimum AP ratio changed to <span>80% AP</span>.</li></ul>\n<p><span><span></span> <span>Bushwhack</span></span>\n</p>\n<ul><li>Maximum traps changed to <span>94 / 96 / 98 / 100 (based on level)</span>.</li></ul>\n<p><span><span></span> <span>Primal Surge</span></span>\n</p>\n<ul><li><span><span></span> <span>Primal Surge</span></span> base heal changed to 60 / 90 / 120 / 150 / 180.</li>\n<li><span><span></span> <span>Swipe</span></span> bonus AD ratio changed to <span>100% <b>bonus</b> AD</span>.</li></ul>"
+  },
+  "Nunu": {
+    "name": "Nunu & Willump",
+    "id": 20,
+    "effects": "<p><span><span></span> <span>Consume</span></span>\n</p>\n<ul><li>Base heal changed to 85 / 135 / 185 / 235 / 285.</li>\n<li>Heal against champions changed to 100%.</li>\n<li>Champion base damage changed to 120 / 180 / 240 / 300 / 360.</li>\n<li>Champion AP ratio changed to <span>70% AP</span>.</li>\n<li>Champion health ratio changed to <span>7% <b>bonus</b> health</span>.</li>\n<li>Cooldown changed to 9 / 8 / 7 / 6 / 5 seconds.</li></ul>\n<p><span><span></span> <span>Biggest Snowball Ever!</span></span>\n</p>\n<ul><li>Base damage changed to 215 / 260 / 305 / 350 / 395.</li>\n<li>Minimum AP ratio changed to <span>50% AP</span>.\n<ul><li>Maximum AP ratio changed to <span>250% AP</span>.</li></ul></li></ul>\n<p><span><span></span> <span>Absolute Zero</span></span>\n</p>\n<ul><li>Maximum damage changed to 655 / 980 / 1305.</li>\n<li>Base shield strength changed to 85 / 95 / 105.</li>\n<li>Shield health ratio changed to <span>40 / 50 / 60% <b>bonus</b> health</span>.</li></ul>"
+  },
+  "Orianna": {
+    "name": "Orianna",
+    "id": 61,
+    "effects": "<p>Stats\n</p>\n<ul><li>Health growth changed to 125.</li></ul>\n<p><span><span></span> <span>Clockwork Windup</span></span>\n</p>\n<ul><li>On-hit AP ratio changed to <span>25% AP</span>.</li></ul>\n<p><span><span></span> <span>Command: Dissonance</span></span>\n</p>\n<ul><li>AP ratio changed to <span>60% AP</span>.</li></ul>\n<p><span><span></span> <span>Command: Shockwave</span></span>\n</p>\n<ul><li>Cooldown changed to 90 / 80 / 70 seconds.</li></ul>"
+  },
+  "Ornn": {
+    "name": "Ornn",
+    "id": 516,
+    "effects": "<p><span><span></span> <span>Living Forge</span></span>\n</p>\n<ul><li>Bonus health and resistances changed to 15%.</li>\n<li><span><b>New Effect:</b></span> Instead of upgrading items, now grants a permanent discount on Anvils for the team: <span><span></span> <span>-100</span></span> for <span><span></span> <span>Stat Bonus Anvil</span></span>, <span><span></span> <span>-200</span></span> for <span><span></span></span><span><span></span></span><span><span></span></span><span><span></span></span><span><span></span></span><span><span></span></span> Legendary Class-specific Item Anvils, and <span><span></span> <span>-250</span></span> for <span><span></span> <span>Prismatic Item Anvil</span></span>.</li></ul>\n<p><span><span></span> <span>Bellows Breath</span></span>\n</p>\n<ul><li>Cooldown changed to 10 seconds.</li></ul>\n<p><span><span></span> <span>Searing Charge</span></span>\n</p>\n<ul><li>Bonus armor ratio changed to <span>50% <b>bonus</b> armor</span>.</li>\n<li>Bonus magic resistance ratio changed to <span>50% <b>bonus</b> magic resistance</span>.</li></ul>\n<p><span><span></span> <span>Call of the Forge God</span></span>\n</p>\n<ul><li>Cooldown changed to 80 / 60 / 40 seconds.</li></ul>"
+  },
+  "Pantheon": {
+    "name": "Pantheon",
+    "id": 80,
+    "effects": "<p>Stats\n</p>\n<ul><li>Health growth changed to 120.</li></ul>\n<p><span><span></span> <span>Comet Spear</span></span>\n</p>\n<ul><li>Cooldown changed to 10 / 9.<small>25</small> / 8.<small>5</small> / 7.<small>75</small> / 7 seconds.</li></ul>\n<p><span><span></span> <span>Shield Vault</span></span>\n</p>\n<ul><li>AP ratio changed to <span>2% per 100 AP</span>.</li></ul>\n<p><span><span></span> <span>Grand Starfall</span></span>\n</p>\n<ul><li>AP ratio changed to <span>150% AP</span>.</li>\n<li>Cooldown changed to 60 / 50 / 40 seconds.</li></ul>"
+  },
+  "Poppy": {
+    "name": "Poppy",
+    "id": 78,
+    "effects": "<p><span><span></span> <span>Hammer Shock</span></span>\n</p>\n<ul><li>Damage health ratio changed to <span>8% of target's <b>maximum</b> health</span>.</li></ul>\n<p><span><span></span> <span>Steadfast Presence</span></span>\n</p>\n<ul><li>Increased resistances changed to 8%.\n<ul><li>Increased resistances while below <span>40% <b>maximum</b> health</span> changed to 16%.</li></ul></li>\n<li>Cooldown changed to 26 / 23.<small>5</small> / 21 / 18.<small>5</small> / 16 seconds.</li></ul>\n<p><span><span></span> <span>Heroic Charge</span></span>\n</p>\n<ul><li>Cooldown changed to 21 / 19.<small>5</small> / 18 / 16.<small>5</small> / 15 seconds.</li></ul>"
+  },
+  "Pyke": {
+    "name": "Pyke",
+    "id": 555,
+    "effects": "<p>Stats\n</p>\n<ul><li>Base health changed to 740.</li>\n<li>Health growth changed to 125.</li></ul>\n<p><span><span></span> <span>Gift of the Drowned Ones</span></span>\n</p>\n<ul><li>Base damage stored near one enemy changed to 30%.</li>\n<li>Base damage stored near multiple enemies changed to 60%.</li></ul>\n<p><span><span></span> <span>Bone Skewer</span></span>\n</p>\n<ul><li>Base damage changed to 120 / 175 / 230 / 285 / 340.</li>\n<li>Cooldown changed to 9 / 8.<small>5</small> / 8 / 7.<small>5</small> / 7 seconds.</li></ul>\n<p><span><span></span> <span>Phantom Undertow</span></span>\n</p>\n<ul><li>Cooldown changed to 13 / 12 / 11 / 10 / 9 seconds.</li></ul>\n<p><span><span></span> <span>Death from Below</span></span>\n</p>\n<ul><li>Damage to enemies above threshold changed to 60%.</li>\n<li><span><span></span> <span>Your Cut</span></span> gold changed to <span><span></span> <span>350</span></span>.</li>\n<li><span><b>New Effect:</b></span> Executing an enemy champion now grants <span><span></span> <span>Your Cut</span></span> to the champion on the team who did not kill them.</li></ul>"
+  },
+  "Qiyana": {
+    "name": "Qiyana",
+    "id": 246,
+    "effects": "<p><span><span></span> <span>Royal Privilege</span></span>\n</p>\n<ul><li>Bonus AD ratio changed to <span>50% <b>bonus</b> AD</span>.</li>\n<li>AP ratio changed to <span>50% AP</span>.</li></ul>\n<p><span><span></span> <span>Edge of Ixtal</span></span>\n</p>\n<ul><li>Brush bonus movement speed changed to 40%.</li>\n<li>River root duration changed to 1 second.</li></ul>\n<p><span><span></span> <span>Audacity</span></span>\n</p>\n<ul><li>Base damage changed to 70 / 120 / 170 / 220 / 270.</li></ul>\n<p><span><span></span> <span>Supreme Display of Talent</span></span>\n</p>\n<ul><li>Cooldown changed to 80 seconds.</li></ul>"
+  },
+  "Quinn": {
+    "name": "Quinn",
+    "id": 133,
+    "effects": "<p>Stats\n</p>\n<ul><li>Health growth changed to 122.</li>\n<li>Attack damage growth changed to 3.<small>7</small>.</li></ul>\n<p><span><span></span> <span>Harrier</span></span>\n</p>\n<ul><li>Base damage changed to <span>11.<small>5</small> &#8722; 109.<small>25</small> (based on level)</span>.</li>\n<li>AD ratio changed to <span><span>118.<small>4</small>% &#8722; 157.<small>5</small>% (based on level)</span> AD</span>.</li></ul>\n<p><span><span></span> <span>Blinding Assault</span></span>\n</p>\n<ul><li>AD ratio changed to <span>90 / 100 / 110 / 120 / 130% AD</span>.</li>\n<li>AP ratio changed to <span>75% AP</span>.</li></ul>\n<p><span><span></span> <span>Heightened Senses</span></span>\n</p>\n<ul><li>Attack speed changed to 30 / 40 / 50 / 60 / 70%.</li>\n<li>Cooldown changed to 20 / 17.<small>5</small> / 15 / 12.<small>5</small> / 10 seconds.</li></ul>\n<p><span><span></span> <span>Behind Enemy Lines</span></span>\n</p>\n<ul><li>AD ratio changed to <span>100% AD</span>.</li></ul>"
+  },
+  "Rammus": {
+    "name": "Rammus",
+    "id": 33,
+    "effects": "<p>Stats\n</p>\n<ul><li>Health growth changed to 109.</li></ul>\n<p><span><span></span> <span>Powerball</span></span>\n</p>\n<ul><li>Bonus movement speed changed to <span>50% &#8722; 75% (based on level)</span>.</li>\n<li>AP ratio changed to <span>150% AP</span>.</li>\n<li>Cooldown changed to 11 / 9.<small>5</small> / 8 / 6.<small>5</small> / 5 seconds.</li></ul>\n<p><span><span></span> <span>Frenzying Taunt</span></span>\n</p>\n<ul><li>Taunt and bonus attack speed duration changed to 1.<small>6</small> / 1.<small>8</small> / 2 / 2.<small>2</small> / 2.<small>4</small> seconds.</li></ul>\n<p><span><span></span> <span>Soaring Slam</span></span>\n</p>\n<ul><li>AP ratio changed to <span>100% AP</span>.</li>\n<li>Cooldown changed to 40 seconds.</li></ul>"
+  },
+  "RekSai": {
+    "name": "Rek'Sai",
+    "id": 421,
+    "effects": "<p>Stats\n</p>\n<ul><li>Health growth changed to 119.</li>\n<li>Attack damage growth changed to 4.</li></ul>\n<p><span><span></span> <span>Queen's Wrath</span></span>\n</p>\n<ul><li>Base damage changed to 70 / 120 / 170 / 220 / 270.</li>\n<li>Bonus AD ratio changed to <span>70% <b>bonus</b> AD</span>.</li>\n<li>AP ratio changed to <span>130% AP</span>.</li>\n<li>Bonus attack speed changed to 45%.</li></ul>\n<p><span><span></span> <span>Burrow</span></span>\n</p>\n<ul><li>Bonus movement speed changed to 15 / 20 / 25 / 30 / 35.</li>\n<li><span><span></span> <span>Unburrow</span></span> base damage changed to 50 / 75 / 100 / 125 / 150.</li>\n<li><span><span></span> <span>Unburrow</span></span> AP ratio changed to <span>100% AP</span>.</li></ul>"
+  },
+  "Renata": {
+    "name": "Renata Glasc",
+    "id": 888,
+    "effects": "<p><span><span></span> <span>Leverage</span></span>\n</p>\n<ul><li>AP ratio changed to <span>1% per 100 AP</span>.</li></ul>\n<p><span><span></span> <span>Handshake</span></span>\n</p>\n<ul><li>AP ratio changed to <span>90% AP</span>.</li>\n<li>Cooldown changed to 10 seconds.</li></ul>\n<p><span><span></span> <span>Bailout</span></span>\n</p>\n<ul><li>Cooldown changed to 22 / 21 / 20 / 19 / 18 seconds.</li></ul>\n<p><span><span></span> <span>Loyalty Program</span></span>\n</p>\n<ul><li>Cooldown changed to 12 / 11 / 10 / 9 / 8 seconds.</li>\n<li>Shield AP ratio changed to <span>60% AP</span>.</li></ul>\n<p><span><span></span> <span>Hostile Takeover</span></span>\n</p>\n<ul><li>Cooldown changed to 100 / 90 / 80 seconds.</li></ul>"
+  },
+  "Renekton": {
+    "name": "Renekton",
+    "id": 58,
+    "effects": "<p><span><span></span> <span>Ruthless Predator</span></span>\n</p>\n<ul><li>Cooldown changed to 18 / 16 / 14 / 12 / 10 seconds.</li></ul>"
+  },
+  "Rengar": {
+    "name": "Rengar",
+    "id": 107,
+    "effects": "<p><span><span></span> <span>Savagery</span></span>\n</p>\n<ul><li>Base damage changed to 40 / 80 / 120 / 160 / 200.</li>\n<li>AD ratio changed to <span>5 / 10 / 15 / 20 / 25% AD</span>.</li>\n<li>Empowered AD ratio changed to <span>55% AD</span>.</li></ul>\n<p><span><span></span> <span>Battle Roar</span></span>\n</p>\n<ul><li>Base damage changed to 60 / 100 / 140 / 180 / 220.</li>\n<li>AP ratio changed to <span>95% AP</span>.</li>\n<li>Empowered AP ratio changed to <span>105% AP</span>.</li>\n<li>Grey health stored changed to 60% of damage taken,</li></ul>\n<p><span><span></span> <span>Thrill of the Hunt</span></span>\n</p>\n<ul><li>Bonus movement speed changed to 50 / 70 / 90%.</li>\n<li>Cooldown changed to 80 / 70 / 60 seconds.</li></ul>"
+  },
+  "Samira": {
+    "name": "Samira",
+    "id": 360,
+    "effects": "<p>Stats\n</p>\n<ul><li>Attack damage growth changed to 2.<small>8</small>.</li>\n<li>Attack speed growth changed to 2.<small>8</small>.</li></ul>\n<p><span><span></span> <span>Inferno Trigger</span></span>\n</p>\n<ul><li>Base damage per tick changed to 5 / 10 / 15.</li></ul>"
+  },
+  "Sejuani": {
+    "name": "Sejuani",
+    "id": 113,
+    "effects": "<p>Stats\n</p>\n<ul><li>Health growth changed to 144.</li></ul>\n<p><span><span></span> <span>Fury of the North</span></span>\n</p>\n<ul><li>Damage health ratio changed to <span>12% of target's <b>maximum</b> health</span>.</li></ul>\n<p><span><span></span> <span>Arctic Assault</span></span>\n</p>\n<ul><li>Base damage changed to 110 / 170 / 230 / 290 / 350.</li>\n<li>AP ratio changed to <span>110% AP</span>.</li>\n<li>Cooldown changed to 17 / 15.<small>5</small> / 14 / 12.<small>5</small> / 11 seconds.</li></ul>\n<p><span><span></span> <span>Permafrost</span></span>\n</p>\n<ul><li>Champion Frost immunity changed to 5 seconds.</li></ul>\n<p><span><span></span> <span>Glacial Prison</span></span>\n</p>\n<ul><li>Cooldown changed to 80 / 70 / 60 seconds.</li></ul>"
+  },
+  "Senna": {
+    "name": "Senna",
+    "id": 235,
+    "effects": "<p><span><span></span> <span>Absolution</span></span>\n</p>\n<ul><li><span><b>New Effect:</b></span> Gains 7.<small>5</small> <i>Mist</i> stacks per round.</li></ul>"
+  },
+  "Shaco": {
+    "name": "Shaco",
+    "id": 35,
+    "effects": "<p><span><span></span> <span>Backstab</span></span>\n</p>\n<ul><li>Bonus AD ratio changed to <span>35% <b>bonus</b> AD</span>.</li></ul>\n<p><span><span></span> <span>Deceive</span></span>\n</p>\n<ul><li>Base damage changed to 45 / 65 / 85 / 105 / 125.</li>\n<li>Cooldown changed to 14 / 13.<small>5</small> / 13 / 12.<small>5</small> / 12 seconds.</li></ul>\n<p><span><span></span> <span>Jack in the Box</span></span>\n</p>\n<ul><li>AP ratio changed to <span>8% AP</span>.</li>\n<li>Increased AP ratio changed to <span>14% AP</span>.</li>\n<li>Fear duration changed to 0.<small>5</small> / 0.<small>625</small> / 0.<small>75</small> / 0.<small>875</small> / 1.</li>\n<li>Cooldown changed to 17 seconds.</li></ul>"
+  },
+  "Shen": {
+    "name": "Shen",
+    "id": 98,
+    "effects": "<p>General\n</p>\n<ul><li><span><b>New Effect:</b></span> Now passively gains <span><span>0 &#8722; 187 (based on level)</span> <b>bonus</b> health</span>.</li></ul>\n<p><span><span></span> <span>Stand United</span></span>\n</p>\n<ul><li>Cooldown changed to 60 seconds at all ranks.</li></ul>"
+  },
+  "Shyvana": {
+    "name": "Shyvana",
+    "id": 102,
+    "effects": "<p>Stats\n</p>\n<ul><li>Health growth changed to 94.</li></ul>\n<p><span><span></span> <span>Fury of the Dragonborn</span></span>\n</p>\n<ul><li><span><b>New Effect:</b></span> Gain 5 <span><b>bonus</b> armor</span> and <span><b>bonus</b> magic resistance</span> per round.</li></ul>\n<p><span><span></span> <span>Twin Bite</span></span>\n</p>\n<ul><li>Second strike AD ratio changed to <span>20 / 35 / 50 / 65 / 80% AD</span>.</li>\n<li>Cooldown changed to 9 / 8.<small>5</small> / 8 / 7.<small>5</small> / 7 seconds.</li></ul>\n<p><span><span></span> <span>Burnout</span></span>\n</p>\n<ul><li>Base damage per tick changed to 15 / 22.<small>5</small> / 30 / 37.<small>5</small> / 45.</li>\n<li>Bonus AD ratio per tick changed to <span>15% <b>bonus</b> AD</span>.</li></ul>\n<p><span><span></span> <span>Flame Breath</span></span>\n</p>\n<ul><li>On-hit damage health ratio changed to <span>2% of target's <b>maximum</b> health</span>.</li>\n<li>On-hit bonus AD ratio changed to <span>0.<small>5</small>% per 100 <b>bonus</b> AD</span>.</li>\n<li><span><span></span> <span>Dragon Form</span></span> fireball bonus AD ratio changed to <span>80% <b>bonus</b> AD</span>.</li></ul>"
+  },
+  "Singed": {
+    "name": "Singed",
+    "id": 27,
+    "effects": "<p><span><span></span> <span>Poison Trail</span></span>\n</p>\n<ul><li>Total AP ratio changed to <span>65% AP</span>.</li></ul>\n<p><span><span></span> <span>Insanity Potion</span></span>\n</p>\n<ul><li>Bonus stats changed to 30 / 55 / 80.</li></ul>"
+  },
+  "Sion": {
+    "name": "Sion",
+    "id": 14,
+    "effects": "<p><span><span></span> <span>Decimating Smash</span></span>\n</p>\n<ul><li>Minimum base damage changed to 65 / 85 / 105 / 125 / 145.</li>\n<li>Minimum AD ratio changed to <span>60 / 70 / 80 / 90 / 100% AD</span>.</li>\n<li>Maximum base damage changed to 130 / 195 / 260 / 325 / 390.</li>\n<li>Maximum AD ratio changed to <span>180 / 210 / 240 / 270 / 300% AD</span>.</li>\n<li>Base stun duration changed to 1.<small>75</small> seconds.</li></ul>\n<p><span><span></span> <span>Soul Furnace</span></span>\n</p>\n<ul><li>Bonus health per champion takedown changed to 45.</li>\n<li><span><b>New Effect:</b></span> Gains 1200 <span><b>bonus</b> health</span> over the first 8 rounds.</li></ul>\n<p><span><span></span> <span>Roar of the Slayer</span></span>\n</p>\n<ul><li>Base damage changed to 80 / 135 / 190 / 245 / 300.</li>\n<li>AP ratio changed to <span>80% AP</span>.</li>\n<li>Armor reduction changed to 40%.</li>\n<li>Slow strength changed to 55 / 60 / 65 / 70 / 75%.</li></ul>\n<p><span><span></span> <span>Unstoppable Onslaught</span></span>\n</p>\n<ul><li>Minimum base damage changed to 250 / 500 / 750.</li>\n<li>Maximum base damage changed to 700 / 1400 / 2100.</li></ul>"
+  },
+  "Sivir": {
+    "name": "Sivir",
+    "id": 15,
+    "effects": "<p><span><span></span> <span>Boomerang Blade</span></span>\n</p>\n<ul><li>AD ratio changed to <span>80 / 85 / 90 / 95 / 100% AD</span>.</li></ul>"
+  },
+  "Sona": {
+    "name": "Sona",
+    "id": 37,
+    "effects": "<p><span><span></span> <span>Power Chord</span></span>\n</p>\n<ul><li><span><b>New Effect:</b></span> Gains 12.<small>5</small> <i>Accelerando</i> stacks per round.</li></ul>"
+  },
+  "Swain": {
+    "name": "Swain",
+    "id": 50,
+    "effects": "<p><span><span></span> <span>Ravenous Flock</span></span>\n</p>\n<ul><li><span><b>New Effect:</b></span> Gains 5 <i>Soul Fragment</i> stacks per round.</li></ul>\n<p><span><span></span> <span>Demonic Ascension</span></span>\n</p>\n<ul><li>Base heal per second changed to 10 / 15 / 20.</li>\n<li>Base damage per second changed to 15 / 20 / 25.</li></ul>"
+  },
+  "Sylas": {
+    "name": "Sylas",
+    "id": 517,
+    "effects": "<p><span><span></span> <span>Kingslayer</span></span>\n</p>\n<ul><li>Minimum heal AP ratio changed to <span>20% AP</span>.\n<ul><li>Maximum heal AP ratio changed to <span>40% AP</span>.</li></ul></li>\n<li>Damage AP ratio changed to <span>65% AP</span>.</li>\n<li>Cooldown changed to 13 / 11.<small>5</small> / 10 / 8.<small>5</small> / 7 seconds.</li></ul>\n<p><span><span></span> <span>Hijack</span></span>\n</p>\n<ul><li>Enemy ultimate cooldown is refreshed each round.</li></ul>"
+  },
+  "Syndra": {
+    "name": "Syndra",
+    "id": 134,
+    "effects": "<p><span><span></span> <span>Transcendent</span></span>\n</p>\n<ul><li><span><b>New Effect:</b></span> Gains 10 <i>Splinters of Wrath</i> per round.</li></ul>"
+  },
+  "Taliyah": {
+    "name": "Taliyah",
+    "id": 163,
+    "effects": "<p><span><span></span> <span>Threaded Volley</span></span>\n</p>\n<ul><li>Base damage changed to 60 / 78 / 96 / 114 / 132.</li>\n<li>AP ratio changed to <span>55% AP</span>.</li></ul>\n<p><span><span></span> <span>Seismic Shove</span></span>\n</p>\n<ul><li>Cooldown changed to 10 / 9.<small>5</small> / 9 / 8.<small>5</small> / 8 seconds.</li></ul>\n<p><span><span></span> <span>Weaver's Wall</span></span>\n</p>\n<ul><li>Cooldown changed to 50 / 40 / 30 seconds.</li>\n<li>Static cooldown on taking damage changed to 1 second.</li></ul>"
+  },
+  "Talon": {
+    "name": "Talon",
+    "id": 91,
+    "effects": "<p><span><span></span> <span>Blade's End</span></span>\n</p>\n<ul><li>Total bonus AD ratio changed to <span>260% <b>bonus</b> AD</span>.</li></ul>\n<p><span><span></span> <span>Noxian Diplomacy</span></span>\n</p>\n<ul><li>Bonus AD ratio changed to <span>115% <b>bonus</b> AD</span>.</li></ul>\n<p><span><span></span> <span>Rake</span></span>\n</p>\n<ul><li>Initial base damage changed to 60 / 75 / 90 / 105 / 120.</li>\n<li>Return base damage changed to 75 / 112.<small>5</small> / 150 / 187.<small>5</small> / 225.</li>\n<li>Slow strength changed to 50 / 55 / 60 / 65 / 70%.</li></ul>\n<p><span><span></span> <span>Assassin's Path</span></span>\n</p>\n<ul><li>Cooldown per wall changed to 22 / 18 / 14 / 10 / 6 seconds.</li></ul>\n<p><span><span></span> <span>Shadow Assault</span></span>\n</p>\n<ul><li>Bonus movement speed changed to 60 / 80 / 100%.</li>\n<li>Cooldown changed to 80 / 70 / 60 seconds.</li></ul>"
+  },
+  "Taric": {
+    "name": "Taric",
+    "id": 44,
+    "effects": "<p><span><span></span> <span>Bravado</span></span>\n</p>\n<ul><li>Base damage changed to <span>12.<small>5</small> &#8722; 46.<small>5</small> (based on level)</span>.</li>\n<li>Armor ratio changed to <span>15% <b>bonus</b> armor</span>.</li></ul>\n<p><span><span></span> <span>Starlight's Touch</span></span>\n</p>\n<ul><li>Base heal changed to 20.</li>\n<li>Heal AP ratio changed to <span>7% AP</span>.</li>\n<li>Heal health ratio changed to <span>0.<small>5</small>% <b>maximum</b> health</span>.</li></ul>\n<p><span><span></span> <span>Bastion</span></span>\n</p>\n<ul><li>Bonus armor changed to <span>5 / 5.<small>5</small> / 6 / 6.<small>5</small> / 7% of <b>Taric's</b> armor</span>.</li></ul>\n<p><span><span></span> <span>Dazzle</span></span>\n</p>\n<ul><li>Cooldown changed to 19 / 17.<small>5</small> / 16 / 14.<small>5</small> / 13 seconds.</li></ul>\n<p><span><span></span> <span>Cosmic Radiance</span></span>\n</p>\n<ul><li>Invulnerability duration changed to 1.<small>75</small> seconds.</li></ul>"
+  },
+  "Teemo": {
+    "name": "Teemo",
+    "id": 17,
+    "effects": "<p><span><span></span> <span>Blinding Dart</span></span>\n</p>\n<ul><li>Base damage changed to 70 / 110 / 150 / 190 / 230.</li>\n<li>AP ratio changed to <span>70% AP</span>.</li>\n<li>Blind duration changed to 1.<small>5</small> / 1.<small>75</small> / 2 / 2.<small>25</small> / 2.<small>5</small> seconds.</li></ul>\n<p><span><span></span> <span>Noxious Trap</span></span>\n</p>\n<ul><li>Total base damage changed to 150 / 250 / 350.</li>\n<li>Total AP ratio changed to <span>45% AP</span>.</li>\n<li>Slow strength changed to 20 / 30 / 40%.</li></ul>"
+  },
+  "Thresh": {
+    "name": "Thresh",
+    "id": 412,
+    "effects": "<p>Stats\n</p>\n<ul><li>Health growth changed to 130.</li></ul>\n<p><span><span></span> <span>Damnation</span></span>\n</p>\n<ul><li><span><b>New Effect:</b></span> Gains 11.<small>25</small> <i>Soul</i> stacks per round.</li></ul>\n<p><span><span></span> <span>Death Sentence</span></span>\n</p>\n<ul><li>AP ratio changed to <span>130% AP</span>.</li>\n<li>Cooldown changed to 11 / 10.<small>5</small> / 10 / 9.<small>5</small> / 9 seconds.</li></ul>\n<p><span><span></span> <span>Flay</span></span>\n</p>\n<ul><li>AP ratio changed to <span>90% AP</span>.</li>\n<li>Maximum AD ratio changed to <span>100 / 150 / 200 / 250 / 300% AD</span>.</li></ul>\n<p><span><span></span> <span>The Box</span></span>\n</p>\n<ul><li>AP ratio changed to <span>130% AP</span>.</li></ul>"
+  },
+  "Trundle": {
+    "name": "Trundle",
+    "id": 48,
+    "effects": "<p><span><span></span> <span>Chomp</span></span>\n</p>\n<ul><li>AD ratio changed to <span>105 / 115 / 125 / 135 / 145% AD</span>.</li>\n<li>Bonus attack damage changed to 10 / 15 / 20 / 25 / 30.\n<ul><li>Enemy attack damage reduction changed to <span>5 &#8722; 15 (based on level)</span>.</li></ul></li></ul>\n<p><span><span></span> <span>Subjugate</span></span>\n</p>\n<ul><li>Total base damage changed to <span>10 / 15 / 20% of target's <b>maximum</b> health</span>.</li>\n<li>Resistances reduction changed to 30%.</li></ul>"
+  },
+  "Tryndamere": {
+    "name": "Tryndamere",
+    "id": 23,
+    "effects": "<p><span><span></span> <span>Battle Fury</span></span>\n</p>\n<ul><li>Fury generation changed to 150%.</li></ul>\n<p><span><span></span> <span>Bloodlust</span></span>\n</p>\n<ul><li>Base heal changed to 60 / 80 / 100 / 120 / 140.</li>\n<li>Heal AP ratio changed to <span>50% AP</span>.</li>\n<li>Heal per 1 Fury changed to 1 / 1.<small>75</small> / 2.<small>5</small> / 3.<small>25</small> / 4.</li>\n<li>Heal per 1 Fury AP ratio changed to <span>2% AP</span>.</li></ul>\n<p><span><span></span> <span>Mocking Shout</span></span>\n</p>\n<ul><li>Slow strength changed to 50 / 57.<small>5</small> / 65 / 72.<small>5</small> / 80%.</li>\n<li>Attack damage reduction changed to 30 / 52.<small>5</small> / 75 / 97.<small>5</small> / 120.</li></ul>"
+  },
+  "TwistedFate": {
+    "name": "Twisted Fate",
+    "id": 4,
+    "effects": "<p><span><span></span> <span>Loaded Dice</span></span>\n</p>\n<ul><li><span><b>New Innate:</b></span> Gain gold based on damage dealt to enemy champions, equal to a random amount between 2% and 8% of the damage, biased towards 8%.</li></ul>\n<p><span><span></span> <span>Wild Cards</span></span>\n</p>\n<ul><li>Base damage changed to 70 / 120 / 170 / 220 / 270.</li>\n<li>AP ratio changed to <span>100% AP</span>.</li></ul>\n<p><span><span></span> <span>Stacked Deck</span></span>\n</p>\n<ul><li>Base damage changed to 65 / 115 / 165 / 215 / 265.</li></ul>"
+  },
+  "Twitch": {
+    "name": "Twitch",
+    "id": 29,
+    "effects": "<p>Stats\n</p>\n<ul><li>Health growth changed to 104.</li></ul>\n<p><span><span></span> <span>Deadly Venom</span></span>\n</p>\n<ul><li>AP ratio per tick changed to <span>4% AP</span>.</li></ul>\n<p><span><span></span> <span>Contaminate</span></span>\n</p>\n<ul><li>Bonus AD ratio per stack changed to <span>40% <b>bonus</b> AD</span>.</li>\n<li>AP ratio per stack changed to <span>35% AP</span>.</li></ul>\n<p><span><span></span> <span>Spray and Pray</span></span>\n</p>\n<ul><li>Bonus attack damage changed to 30 / 45 / 60.</li></ul>"
+  },
+  "Udyr": {
+    "name": "Udyr",
+    "id": 77,
+    "effects": "<p><span><span></span> <span>Bridge Between</span></span>\n</p>\n<ul><li> <i>Can't Touch This</i> and  <i>Ultimate Revolution</i> augments can be triggered by casting an <i>Awakened</i> ability.</li></ul>\n<p><span><span></span> <span>Wilding Claw</span></span>\n</p>\n<ul><li>Bonus AD ratio changed to <span>2% per 100 <b>bonus</b> AD</span>.</li>\n<li>Awaken bonus AD ratio changed to <span>4% per 100 <b>bonus</b> AD</span>.</li></ul>\n<p><span><span></span> <span>Iron Mantle</span></span>\n</p>\n<ul><li>Shield AP ratio changed to <span>60% AP</span>.</li>\n<li>On-hit heal AP ratio changed to <span>12% AP</span>.</li></ul>\n<p><span><span></span> <span>Wingborne Storm</span></span>\n</p>\n<ul><li>Base damage per second changed to 25 / 45 / 65 / 85 / 105 / 125.</li>\n<li>Awakened total ratio changed to <span>5% per 100 AP</span>.</li></ul>"
+  },
+  "Urgot": {
+    "name": "Urgot",
+    "id": 6,
+    "effects": "<p>Stats\n</p>\n<ul><li>Attack damage growth changed to 3.</li>\n<li>Health growth changed to 92.</li>\n<li>Armor growth changed to 4.<small>75</small>.</li></ul>\n<p><span><span></span> <span>Purge</span></span>\n</p>\n<ul><li><span><b>New Effect:</b></span> On-hit damage modifier now applies to the on-hit effects of the <i>Firebrand</i>, <i>Heavy Hitter</i>, <i>Light 'em Up</i>, and <i>Angel of Retribution</i> augments.</li></ul>"
+  },
+  "Varus": {
+    "name": "Varus",
+    "id": 110,
+    "effects": "<p><span><span></span> <span>Piercing Arrow</span></span>\n</p>\n<ul><li>Cooldown changed to 13 / 12 / 11 / 10 / 9 seconds.</li></ul>\n<p><span><span></span> <span>Hail of Arrows</span></span>\n</p>\n<ul><li>Bonus AD ratio changed to <span>110% <b>bonus</b> AD</span>.</li></ul>"
+  },
+  "Vayne": {
+    "name": "Vayne",
+    "id": 67,
+    "effects": "<p>Stats\n</p>\n<ul><li>Health growth changed to 93.</li>\n<li>Attack speed growth changed to 3.</li>\n<li>Attack damage growth changed to 1.<small>95</small>.</li></ul>\n<p><span><span></span> <span>Tumble</span></span>\n</p>\n<ul><li>AD ratio changed to <span>50 / 60 / 70 / 80 / 90% AD</span>.</li></ul>\n<p><span><span></span> <span>Silver Bolts</span></span>\n</p>\n<ul><li>Damage changed to <span>4 / 4.<small>5</small> / 5 / 5.<small>5</small> / 6% of target's <b>maximum</b> health</span>.</li></ul>\n<p><span><span></span> <span>Final Hour</span></span>\n</p>\n<ul><li>Bonus attack damage changed to 10 / 20 / 30.</li></ul>"
+  },
+  "Veigar": {
+    "name": "Veigar",
+    "id": 45,
+    "effects": "<p><span><span></span> <span>Phenomenal Evil Power</span></span>\n</p>\n<ul><li><span><b>New Effect:</b></span> Gains 12.<small>5</small> <i>Phenomenal Evil</i> stacks per round.</li></ul>\n<p><span><span></span> <span>Baleful Strike</span></span>\n</p>\n<ul><li>AP ratio changed to <span>45 / 50 / 55 / 60 / 65% AP</span>.</li></ul>\n<p><span><span></span> <span>Event Horizon</span></span>\n</p>\n<ul><li>Cooldown changed to 23 / 21.<small>5</small> / 20 / 18.<small>5</small> / 17 seconds.</li></ul>"
+  },
+  "Vex": {
+    "name": "Vex",
+    "id": 711,
+    "effects": "<p>General\n</p>\n<ul><li><span><b>New Effect:</b></span> Now passively gains <span><span>0 &#8722; 612 (based on level)</span> <b>bonus</b> health</span>.</li></ul>\n<p><span><span></span> <span>Mistral Bolt</span></span>\n</p>\n<ul><li>Base damage changed to 90 / 135 / 180 / 225 / 270.</li>\n<li>AP ratio changed to <span>80% AP</span>.</li></ul>\n<p><span><span></span> <span>Personal Space</span></span>\n</p>\n<ul><li>Cooldown changed to 13 / 12.<small>5</small> / 12 / 11.<small>5</small> / 11 seconds.</li></ul>\n<p><span><span></span> <span>Looming Darkness</span></span>\n</p>\n<ul><li>Cooldown changed to 10 seconds.</li>\n<li>Slow changed to 40 / 45 / 50 / 55 / 60%.</li></ul>"
+  },
+  "Vi": {
+    "name": "Vi",
+    "id": 254,
+    "effects": "<p><span><span></span> <span>Vault Breaker</span></span>\n</p>\n<ul><li>Minimum bonus AD ratio changed to <span>70% <b>bonus</b> AD</span>.\n<ul><li>Maximum bonus AD ratio changed to <span>140% <b>bonus</b> AD</span>.</li></ul></li>\n<li>Cooldown changed to 13 / 11.<small>5</small> / 10 / 8.<small>5</small> / 7 seconds.</li></ul>\n<p><span><span></span> <span>Cease and Desist</span></span>\n</p>\n<ul><li>Base damage changed to 150 / 175 / 200 / 225 / 250.</li>\n<li>Bonus AD ratio changed to <span>60% <b>bonus</b> AD</span>.</li></ul>"
+  },
+  "Viktor": {
+    "name": "Viktor",
+    "id": 112,
+    "effects": "<p><span><span></span> <span>Glorious Evolution</span></span>\n</p>\n<ul><li><span><b>New Effect:</b></span> Gains 25 <i>Hex Fragments</i> per round.</li></ul>\n<p><span><span></span> <span>Death Ray</span></span>\n</p>\n<ul><li>Base damage changed to 80 / 120 / 160 / 200 / 240.</li>\n<li>AP ratio changed to <span>50% AP</span>.</li></ul>\n<p><span><span></span> <span>Chaos Storm</span></span>\n</p>\n<ul><li>Initial base damage changed to 100 / 175 / 250.</li></ul>"
+  },
+  "Vladimir": {
+    "name": "Vladimir",
+    "id": 8,
+    "effects": "<p><span><span></span> <span>Transfusion</span></span>\n</p>\n<ul><li>Cooldown changed to 10 / 9 / 8 / 7 / 6 seconds.</li>\n<li>Heal AP ratio changed to <span>20% AP</span>.</li></ul>"
+  },
+  "Volibear": {
+    "name": "Volibear",
+    "id": 106,
+    "effects": "<p>Stats\n</p>\n<ul><li>Armor growth changed to 4.<small>2</small>.</li></ul>\n<p><span><span></span> <span>The Relentless Storm</span></span>\n</p>\n<ul><li>Lightning AP ratio changed to <span>40% AP</span>.</li></ul>\n<p><span><span></span> <span>Thundering Smash</span></span>\n</p>\n<ul><li>Bonus AD ratio changed to <span>60% <b>bonus</b> AD</span>.</li>\n<li>Cooldown changed to 16 / 15 / 14 / 13 / 12 seconds.</li></ul>\n<p><span><span></span> <span>Frenzied Maul</span></span>\n</p>\n<ul><li>Damage health ratio changed to <span>5% of his <b>bonus</b> health</span>.</li>\n<li>Base heal changed to 10 / 25 / 40 / 55 / 70.</li>\n<li>Heal health ratio changed to <span>6 / 8 / 10 / 12 / 14% of his <b>missing</b> health</span>.</li></ul>\n<p><span><span></span> <span>Sky Splitter</span></span>\n</p>\n<ul><li>Base damage changed to 60 / 85 / 110 / 135 / 160.</li>\n<li>Damage AP ratio changed to <span>70% AP</span>.</li>\n<li>Damage health ratio changed to <span>9 / 10 / 11 / 12 / 13% of target's <b>maximum</b> health</span>.</li>\n<li>Shield AP ratio changed to <span>65% AP</span>.</li>\n<li>Shield health ratio changed to <span>11% of <b>maximum</b> health</span>.</li></ul>"
+  },
+  "Warwick": {
+    "name": "Warwick",
+    "id": 19,
+    "effects": "<p><span><span></span> <span>Jaws of the Beast</span></span>\n</p>\n<ul><li>Damage health ratio changed to <span>5 / 6 / 7 / 8 / 9% of target's <b>maximum</b> health</span>.</li>\n<li>AD ratio changed to <span>100% AD</span>.</li></ul>\n<p><span><span></span> <span>Primal Howl</span></span>\n</p>\n<ul><li>Cooldown changed to 18 / 17 / 16 / 15 / 14 seconds.</li></ul>\n<p><span><span></span> <span>Infinite Duress</span></span>\n</p>\n<ul><li>Total base damage changed to 100 / 200 / 300.</li></ul>"
+  },
+  "Xayah": {
+    "name": "Xayah",
+    "id": 498,
+    "effects": "<p>Stats\n</p>\n<ul><li>Attack damage growth changed to 2.<small>6</small>.</li>\n<li>Attack speed growth changed to 3.<small>9</small>%.</li>\n<li>Health growth changed to 97.</li></ul>\n<p><span><span></span> <span>Double Daggers</span></span>\n</p>\n<ul><li>Cooldown changed to 10 / 8.<small>75</small> / 7.<small>5</small> / 6.<small>25</small> / 5 seconds.</li></ul>\n<p><span><span></span> <span>Deadly Plumage</span></span>\n</p>\n<ul><li>Second strike damage changed to 20%.</li></ul>\n<p><span><span></span> <span>Bladecaller</span></span>\n</p>\n<ul><li>Base damage per feather changed to 40 / 50 / 60 / 70 / 80.</li>\n<li>Bonus AD ratio per feather changed to <span>55% <b>bonus</b> AD</span>.</li></ul>"
+  },
+  "Xerath": {
+    "name": "Xerath",
+    "id": 101,
+    "effects": "<p>General\n</p>\n<ul><li><span><b>New Effect:</b></span> Now passively gains <span><span>0 &#8722; 493 (based on level)</span> <b>bonus</b> health</span>.</li></ul>\n<p>Stats\n</p>\n<ul><li>Health growth changed to 121.</li></ul>\n<p><span><span></span> <span>Mana Surge</span></span>\n</p>\n<ul><li>Passive damage to plants changed to 2.</li></ul>\n<p><span><span></span> <span>Arcanopulse</span></span>\n</p>\n<ul><li>Base damage changed to 100 / 140 / 180 / 220 / 260.</li></ul>\n<p><span><span></span> <span>Eye of Destruction</span></span>\n</p>\n<ul><li>Base damage changed to 90 / 125 / 160 / 195 / 230.</li>\n<li>Base slow changed to 40%. <i>Enhanced slow is unchanged.</i></li>\n<li>Cooldown changed to 10 seconds at all ranks.</li></ul>\n<p><span><span></span> <span>Shocking Orb</span></span>\n</p>\n<ul><li>Minimum stun duration changed to 1.<small>25</small> seconds.</li>\n<li>Maximum stun duration changed to 2.<small>5</small> seconds.</li>\n<li>Cooldown changed to 11 / 10.<small>5</small> / 10 / 9.<small>5</small> / 9 seconds.</li></ul>\n<p><span><span></span> <span>Rite of the Arcane</span></span>\n</p>\n<ul><li>Base damage changed to 85 / 120 / 155.\n<ul><li>Total base damage changed to 340 / 461.<small>25</small> / 600 / 756.<small>25</small> / 930.</li></ul></li>\n<li>Bonus damage per stack changed to 30 / 35 / 40.</li>\n<li>Cooldown changed to 50 seconds at all ranks.</li></ul>"
+  },
+  "XinZhao": {
+    "name": "Xin Zhao",
+    "id": 5,
+    "effects": "<p><span><span></span> <span>Determination</span></span>\n</p>\n<ul><li>Heal AP ratio changed to <span>85% AP</span>.</li></ul>\n<p><span><span></span> <span>Audacious Charge</span></span>\n</p>\n<ul><li>AP ratio changed to <span>90% AP</span>.</li></ul>"
+  },
+  "Yasuo": {
+    "name": "Yasuo",
+    "id": 157,
+    "effects": "<p><span><span></span> <span>Way of the Wanderer</span></span>\n</p>\n<ul><li>Base shield changed to 130% value.</li></ul>\n<p><span><span></span> <span>Sweeping Blade</span></span>\n</p>\n<ul><li>On-target cooldown changed to 50% value.</li>\n<li>Base damage changed to 75 / 90 / 105 / 120 / 135}.</li></ul>"
+  },
+  "Yone": {
+    "name": "Yone",
+    "id": 777,
+    "effects": "<p>Stats\n</p>\n<ul><li>Health growth changed to 115.</li></ul>\n<p><span><span></span> <span>Spirit Cleave</span></span>\n</p>\n<ul><li>Shield bonus AD ratio changed to <span>75% <b>bonus</b> AD</span>.</li></ul>\n<p><span><span></span> <span>Soul Unbound</span></span>\n</p>\n<ul><li>Cooldown changed to 18 / 16 / 14 / 12 / 10 seconds.</li></ul>\n<p><span><span></span> <span>Fate Sealed</span></span>\n</p>\n<ul><li>Cooldown changed to 70 / 60 / 50 seconds.</li></ul>"
+  },
+  "Yorick": {
+    "name": "Yorick",
+    "id": 83,
+    "effects": "<p><span><span></span> <span>Shepherd of Souls</span></span>\n</p>\n<ul><li><span><b>New Effect:</b></span> Now spawns a grave at a random location within 600 units every 8 seconds.</li>\n<li>Ghoul attack damage AD ratio changed to <span>15% AD</span>.</li>\n<li>Ghoul health changed to 70% value.</li></ul>\n<p><span><span></span> <span>Last Rites</span></span>\n</p>\n<ul><li>Heal health ratio changed to <span>3 / 4 / 5 / 6 / 7% of his <b>missing</b> health</span>.</li></ul>\n<p><span><span></span> <span>Eulogy of the Isles</span></span>\n</p>\n<ul><li>Maiden health changed to 70% value.</li></ul>"
+  },
+  "Yuumi": {
+    "name": "Yuumi",
+    "id": 350,
+    "effects": "<p><span><span></span> <span>Prowling Projectile</span></span>\n</p>\n<ul><li>AP ratio changed to <span>25% AP</span>.</li>\n<li>Empowered AP ratio changed to <span>37.<small>5</small>% AP</span>.</li></ul>\n<p><span><span></span> <span>You and Me!</span></span>\n</p>\n<ul><li>Heal and shield power changed to 10 / 13.<small>75</small> / 17.<small>5</small> / 21.<small>25</small> / 25%.</li></ul>\n<p><span><span></span> <span>Zoomies</span></span>\n</p>\n<ul><li>Base shield changed to 100 / 125 / 150 / 175 / 200.</li>\n<li>AP ratio changed to <span>40% AP</span>.</li></ul>"
+  },
+  "Zac": {
+    "name": "Zac",
+    "id": 154,
+    "effects": "<p><span><span></span> <span>Cell Division</span></span>\n</p>\n<ul><li>Bloblets are damaged by the Ring of Fire.</li></ul>\n<p><span><span></span> <span>Unstable Matter</span></span>\n</p>\n<ul><li>Cooldown changed to 6 seconds.</li></ul>\n<p><span><span></span> <span>Let's Bounce!</span></span>\n</p>\n<ul><li><span><span></span> <span>Chunk</span></span> healing increase changed to <span>0.<small>5</small> / 1 / 1.<small>5</small>% <b>maximum</b> health</span>.\n<ul><li>Healing per chunk <span><span></span> <span>Chunk</span></span> changed to <span><span>5 / 5.<small>5</small> / 6 / 6.<small>5</small>% (based on  <i>Let's Bounce!'s</i> Rank)</span> of his <b>maximum</b> health</span>.</li></ul></li></ul>"
+  },
+  "Zed": {
+    "name": "Zed",
+    "id": 238,
+    "effects": "<p><span><span></span> <span>Razor Shuriken</span></span>\n</p>\n<ul><li>Base damage changed to 70 / 105 / 140 / 175 / 210.</li>\n<li>Bonus AD ratio changed to <span>110% <b>bonus</b> AD</span>.</li></ul>\n<p><span><span></span> <span>Living Shadow</span></span>\n</p>\n<ul><li>Cooldown changed to 18 / 17.<small>25</small> / 16.<small>5</small> / 15.<small>75</small> / 15 seconds.</li></ul>"
+  },
+  "Ziggs": {
+    "name": "Ziggs",
+    "id": 115,
+    "effects": "<p>General\n</p>\n<ul><li><span><b>New Effect:</b></span> Now passively gains <span><span>0 &#8722; 493 (based on level)</span> <b>bonus</b> health</span>.</li></ul>\n<p>Stats\n</p>\n<ul><li>Health growth changed to 121.</li></ul>\n<p><span><span></span> <span>Short Fuse</span></span>\n</p>\n<ul><li>AP ratio changed to <span>75% AP</span>.</li></ul>\n<p><span><span></span> <span>Bouncing Bomb</span></span>\n</p>\n<ul><li>Base damage changed to 125 / 175 / 225 / 275 / 325.</li>\n<li>AP ratio changed to <span>80% AP</span>.</li>\n<li>Cooldown changed to 4 seconds at all ranks.</li></ul>\n<p><span><span></span> <span>Satchel Charge</span></span>\n</p>\n<ul><li>Cooldown changed to 10 / 9.<small>5</small> / 9 / 8.<small>5</small> / 8 seconds.</li></ul>\n<p><span><span></span> <span>Hexplosive Minefield</span></span>\n</p>\n<ul><li>Now affected by +30 ability haste.</li>\n<li>Slow changed to 30 / 40 / 50 / 60 / 70%.</li></ul>\n<p><span><span></span> <span>Mega Inferno Bomb</span></span>\n</p>\n<ul><li>Base damage changed to 300 / 450 / 600.</li>\n<li>AP ratio changed to <span>85% AP</span>.</li>\n<li>Empowered damage changed to 450 / 675 / 900.</li>\n<li>Empowered AP ratio changed to <span>127.<small>5</small>% AP</span>.</li>\n<li>Cooldown changed to 70 / 60 / 50 seconds.</li></ul>"
+  },
+  "Zilean": {
+    "name": "Zilean",
+    "id": 26,
+    "effects": "<p>General\n</p>\n<ul><li><span><b>New Effect:</b></span> Now passively gains <span><span>0 &#8722; 200 (based on level)</span> <b>bonus</b> health</span>.</li></ul>\n<p><span><span></span> <span>Time Bomb</span></span>\n</p>\n<ul><li>Base damage changed to 100 / 165 / 230 / 295 / 360.</li>\n<li>AP ratio changed to <span>100% AP</span>.</li></ul>"
+  },
+  "Zoe": {
+    "name": "Zoe",
+    "id": 142,
+    "effects": "<p>Stats\n</p>\n<ul><li>Health growth changed to 121.</li></ul>\n<p><span><span></span> <span>More Sparkles!</span></span>\n</p>\n<ul><li>AP ratio changed to <span>35% AP</span>.</li></ul>\n<p><span><span></span> <span>Spell Thief</span></span>\n</p>\n<ul><li>Now drops <i>Spell Shards</i> for the following: <span><span></span> <span>Banner of Command</span></span>, <span><span></span> <span>Blade Waltz</span></span>, <span><span></span> <span>Castle</span></span>, <span><span></span> <span>Defensive Maneuvers</span></span>, <span><span></span> <span>Die Another Day</span></span>, <span><span></span> <span>Feel the Burn</span></span>, <span><span></span> <span>Flee</span></span>, <span><span></span> <span>Frozen Foundations</span></span>, <span><span></span> <span>Now You See Me</span></span>, <span><span></span> <span>Oathsworn</span></span>, <span><span></span> <span>Orbital Laser</span></span>, <span><span></span> <span>Vanish</span></span>, and <span><span></span> <span>Warmup Routine</span></span>.</li></ul>"
+  }
+}
