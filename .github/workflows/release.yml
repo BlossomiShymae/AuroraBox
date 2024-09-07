@@ -16,10 +16,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        include:
-          - rid: win-x64
-          - rid: linux-x64
-          - rid: osx-x64
+        rid: [win-x64, linux-x64, osx-64]
 
     steps:
     - name: List directory
