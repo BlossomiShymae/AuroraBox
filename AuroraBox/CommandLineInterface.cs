@@ -1,5 +1,4 @@
 using System.Net.Http.Json;
-using System.Text;
 using System.Text.Json;
 using System.Text.RegularExpressions;
 using System.Web;
@@ -20,9 +19,9 @@ public partial class CommandLineInterface
 
     public static HtmlWeb Web { get; } = new();
 
-    public Lazy<HtmlNode> AramDocumentNode { get; } = new(() => Web.Load("https://leagueoflegends.fandom.com/wiki/ARAM").DocumentNode);
+    public Lazy<HtmlNode> AramDocumentNode { get; } = new(() => Web.Load("https://wiki.leagueoflegends.com/en-us/ARAM").DocumentNode);
 
-    public Lazy<HtmlNode> ArenaDocumentNode { get; } = new(() => Web.Load("https://leagueoflegends.fandom.com/wiki/Arena_(League_of_Legends)").DocumentNode);
+    public Lazy<HtmlNode> ArenaDocumentNode { get; } = new(() => Web.Load("https://wiki.leagueoflegends.com/en-us/Arena_(League_of_Legends)").DocumentNode);
 
     public async Task OnExecuteAsync()
     {   
@@ -56,7 +55,8 @@ public partial class CommandLineInterface
     private SortedDictionary<int, AramPerkStats> GetAramPerkStats(List<Perk> perks)
     {
         return AramDocumentNode.Value
-            .SelectNodes("//div[contains(@class, 'tabber')]/div[contains(@class, 'wds-tab__content')]")[2].ChildNodes
+            .SelectSingleNode("//div[contains(@class, 'tabber')]/div[contains(@data-title, 'Runes')]")
+            .ChildNodes
             .Skip(1)
             .Where(x => x.NodeType == HtmlNodeType.Element)
             .Chunk(2)
@@ -81,8 +81,8 @@ public partial class CommandLineInterface
     private SortedDictionary<int, AramItemStats> GetAramItemStats(List<Item> items)
     {
         return AramDocumentNode.Value
-            .SelectNodes("//div[contains(@class, 'tabber')]/div[contains(@class, 'wds-tab__content')]")[1].ChildNodes
-            .Skip(1)
+            .SelectSingleNode("//div[contains(@class, 'tabber')]/div[contains(@data-title, 'Items')]")
+            .ChildNodes
             .Where(x => x.NodeType == HtmlNodeType.Element)
             .Chunk(2)
             .Select(x => 
@@ -112,9 +112,9 @@ public partial class CommandLineInterface
             return 100.0 + double.Parse(innerText.Replace("%", string.Empty));
         }
     
-       return AramDocumentNode.Value
-            .SelectNodes("//div[contains(@class, 'tabber')]/div[contains(@class, 'wds-tab__content')]/table/tbody/tr")
-            .Skip(1)
+        return AramDocumentNode.Value
+            .SelectNodes("//div[contains(@class, 'tabber')]//table[contains(@class, 'article-table') and contains(@class, 'sortable')]/tbody/tr")
+            .Skip(1) // Skip header cells
             .Select(x =>
             {
                 var stats = new AramChampionStats()
@@ -139,7 +139,7 @@ public partial class CommandLineInterface
     {
         return ArenaDocumentNode.Value
             .SelectNodes("//div[contains(@class, 'tabber')]//table[contains(@class, 'article-table') and contains(@class, 'sortable')]/tbody/tr")
-            .Skip(1)
+            .Skip(1) // Skip header cells
             .Select(x => 
             {
                 var stats = new ArenaChampionStats()

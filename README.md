@@ -2,7 +2,7 @@
 
 ![logo](./logo.png)
 
-aurora-box is an experimental CLI tool that generates static data from the League Fandom's ARAM and Arena page. Generated data currently includes champion balance changes and effects for each mode.
+aurora-box is an experimental CLI tool that generates static data from the League Wiki's ARAM and Arena page. Generated data currently includes champion balance changes and effects for each mode.
 
 Made using C# and the .NET ecosystem.
 
